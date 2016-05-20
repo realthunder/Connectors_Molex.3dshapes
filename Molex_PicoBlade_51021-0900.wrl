@@ -1,0 +1,2340 @@
+#VRML V2.0 utf8
+#kicad StepUp wrl exported
+
+Shape {
+    appearance Appearance {material DEF PIN-01 Material {
+        ambientIntensity 0.271
+        diffuseColor 0.824 0.820 0.781
+        specularColor 0.328 0.258 0.172
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.70
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF MET-01 Material {
+        ambientIntensity 0.249999
+        diffuseColor 0.298 0.298 0.298
+        specularColor 0.398 0.398 0.398
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.056122
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF PIN-02 Material {
+        ambientIntensity 0.379
+        diffuseColor 0.859 0.738 0.496
+        specularColor 0.137 0.145 0.184
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.40
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF IC-BODY-EPOXY-04 Material {
+        ambientIntensity 0.293
+        diffuseColor 0.148 0.145 0.145
+        specularColor 0.180 0.168 0.160
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.35
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF RES-SMD-01 Material {
+        diffuseColor 0.082 0.086 0.094
+        emissiveColor 0.000 0.000 0.000
+        specularColor 0.066 0.063 0.063
+        ambientIntensity 0.638
+        transparency 0.0
+        shininess 0.3
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF IC-BODY-EPOXY-01 Material {
+        ambientIntensity 0.117
+        diffuseColor 0.250 0.262 0.281
+        specularColor 0.316 0.281 0.176
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.25
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF CAP-CERAMIC-05 Material {
+        ambientIntensity 0.179
+        diffuseColor 0.273 0.273 0.273
+        specularColor 0.203 0.188 0.176
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.15
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF CAP-CERAMIC-06 Material {
+        ambientIntensity 0.453
+        diffuseColor 0.379 0.270 0.215
+        specularColor 0.223 0.223 0.223
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.15
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF RES-THT-01 Material {
+        ambientIntensity 0.149
+        diffuseColor 0.883 0.711 0.492
+        specularColor 0.043 0.121 0.281
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.40
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF PLASTIC-BLUE-01 Material {
+        ambientIntensity 0.565
+        diffuseColor 0.137 0.402 0.727
+        specularColor 0.359 0.379 0.270
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.25
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF PLASTIC-GREEN-01 Material {
+        ambientIntensity 0.315
+        diffuseColor 0.340 0.680 0.445
+        specularColor 0.176 0.105 0.195
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.25
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF PLASTIC-ORANGE-01 Material {
+        ambientIntensity 0.284
+        diffuseColor 0.809 0.426 0.148
+        specularColor 0.039 0.102 0.145
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.25
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF RED-BODY Material {
+        ambientIntensity 0.683
+        diffuseColor 0.700 0.100 0.050
+        emissiveColor 0.000 0.000 0.000
+        specularColor 0.300 0.400 0.150
+        shininess 0.25
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF CAP-CERAMIC-02 Material {
+        ambientIntensity 0.683
+        diffuseColor 0.578 0.336 0.352
+        specularColor 0.105 0.273 0.270
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.25
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF PLASTIC-YELLOW-01 Material {
+        ambientIntensity 0.522
+        diffuseColor 0.832 0.680 0.066
+        specularColor 0.160 0.203 0.320
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.25
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF PLASTIC-WHITE-01 Material {
+        ambientIntensity 0.494
+        diffuseColor 0.895 0.891 0.813
+        specularColor 0.047 0.055 0.109
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.25
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF IC-LABEL-01 Material {
+        ambientIntensity 0.082
+        diffuseColor 0.691 0.664 0.598
+        specularColor 0.000 0.000 0.000
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.01
+        transparency 0.0
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF LED-RED Material {
+        ambientIntensity 0.789
+        diffuseColor 0.700 0.100 0.050
+        emissiveColor 0.000 0.000 0.000
+        specularColor 0.300 0.400 0.150
+        shininess 0.125
+        transparency 0.10
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF LED-GREEN Material {
+        ambientIntensity 0.789
+        diffuseColor 0.400 0.700 0.150
+        emissiveColor 0.000 0.000 0.000
+        specularColor 0.600 0.300 0.100
+        shininess 0.05
+        transparency 0.10
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF LED-BLUE Material {
+        ambientIntensity 0.789
+        diffuseColor 0.100 0.250 0.700
+        emissiveColor 0.000 0.000 0.000
+        specularColor 0.500 0.600 0.300
+        shininess 0.125
+        transparency 0.10
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF LED-YELLOW Material {
+        ambientIntensity 0.522
+        diffuseColor 0.98 0.840 0.066
+        specularColor 0.160 0.203 0.320
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.125
+        transparency 0.10
+        }
+    }
+}
+Shape {
+    appearance Appearance {material DEF LED-WHITE Material {
+        ambientIntensity 0.494
+        diffuseColor 0.895 0.891 0.813
+        specularColor 0.047 0.055 0.109
+        emissiveColor 0.0 0.0 0.0
+        shininess 0.125
+        transparency 0.10
+        }
+    }
+}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-2.44094 0.65945 -0.62992,-2.44094 0.77756 -0.62992,2.44094 0.77756 -0.62992,2.44094 0.65945 -0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,0,4,1,-1,5,0,3,-1,6,3,7,-1,6,5,3,-1,8,7,9,-1,8,9,10,-1,8,6,7,-1,11,8,10,-1,12,10,13,-1,12,11,10,-1]
+coord Coordinate { point [-2.47151 0.77756 -0.62590,-2.44094 0.65945 -0.62992,-2.47151 0.65945 -0.62590,-2.50000 0.65945 -0.61410,-2.44094 0.77756 -0.62992,-2.50000 0.77756 -0.61410,-2.52446 0.77756 -0.59533,-2.52446 0.65945 -0.59533,-2.54323 0.77756 -0.57087,-2.54323 0.65945 -0.57087,-2.55503 0.65945 -0.54238,-2.55503 0.77756 -0.54238,-2.55905 0.77756 -0.51181,-2.55905 0.65945 -0.51181]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,4,3,5,-1,4,5,6,-1,4,0,3,-1,7,4,6,-1,8,7,6,-1,9,7,8,-1,10,8,6,-1,11,12,10,-1,13,4,7,-1,14,15,13,-1,16,10,6,-1,16,11,10,-1,16,17,11,-1,18,17,16,-1,19,20,14,-1,21,13,7,-1,22,23,19,-1,22,13,21,-1,22,14,13,-1,22,19,14,-1,24,16,6,-1,25,21,26,-1,25,22,21,-1,27,28,24,-1,29,27,24,-1,30,24,6,-1,30,29,24,-1,31,29,30,-1,32,11,17,-1,33,32,17,-1,34,35,32,-1,34,32,33,-1,34,22,25,-1,36,30,6,-1,37,33,38,-1,37,22,34,-1,37,34,33,-1,39,40,36,-1,41,39,36,-1,42,41,36,-1,42,36,6,-1,43,41,42,-1,44,27,29,-1,45,44,29,-1,46,47,44,-1,46,44,45,-1,48,42,6,-1,49,46,45,-1,49,45,50,-1,51,52,48,-1,53,48,6,-1,53,51,48,-1,53,54,51,-1,55,54,53,-1,56,39,41,-1,57,56,41,-1,58,56,57,-1,58,59,56,-1,60,58,57,-1,60,57,61,-1,62,63,64,-1,65,62,64,-1,66,65,64,-1,67,65,66,-1,68,51,54,-1,69,68,54,-1,70,68,69,-1,70,71,68,-1,72,69,73,-1,72,70,69,-1,74,75,76,-1,77,74,76,-1,77,78,74,-1,79,78,77,-1,80,62,65,-1,81,80,65,-1,82,80,81,-1,82,83,80,-1,84,82,81,-1,84,81,85,-1,86,87,88,-1,89,86,88,-1,89,90,86,-1,91,90,89,-1,92,74,78,-1,93,92,78,-1,94,92,93,-1,94,95,92,-1,96,94,93,-1,96,93,97,-1,98,99,100,-1,101,98,100,-1,102,101,100,-1,103,101,102,-1,104,86,90,-1,105,104,90,-1,106,107,104,-1,106,104,105,-1,108,89,88,-1,108,109,102,-1,108,102,100,-1,108,100,89,-1,108,53,6,-1,108,88,77,-1,108,76,66,-1,108,64,53,-1,108,66,64,-1,108,77,76,-1,110,105,111,-1,110,106,105,-1,112,113,109,-1,112,109,108,-1,114,108,115,-1,114,115,116,-1,117,114,118,-1,119,98,101,-1,120,114,117,-1,120,112,108,-1,120,108,114,-1,121,119,101,-1,122,123,119,-1,122,119,121,-1,124,121,125,-1,124,122,121,-1,126,127,128,-1,129,124,126,-1,129,122,124,-1,129,126,128,-1,130,128,112,-1,130,112,120,-1,130,129,128,-1,131,129,130,-1,132,129,131,-1,133,132,131,-1,133,131,134,-1,133,135,132,-1,129,22,37,-1,129,37,46,-1,129,46,49,-1,129,49,58,-1,129,58,60,-1,129,60,70,-1,129,70,72,-1,129,72,82,-1,129,82,84,-1,129,84,94,-1,129,94,96,-1,129,96,106,-1,129,106,110,-1,129,110,122,-1]
+coord Coordinate { point [2.55503 0.77756 -0.54238,2.54323 0.77756 -0.57086,2.52446 0.77756 -0.59533,2.50000 0.77756 -0.61410,2.55905 0.77756 -0.51181,2.47151 0.77756 -0.62590,2.44094 0.77756 -0.62992,2.20472 0.77756 -0.31496,2.08661 0.77756 -0.37401,2.08661 0.77756 -0.31496,1.85039 0.77756 -0.37401,1.73228 0.77756 -0.31496,1.85039 0.77756 -0.31496,2.55905 0.77756 0.51181,2.54323 0.77756 0.57087,2.55503 0.77756 0.54238,1.59448 0.77756 -0.37401,1.71259 0.77756 -0.31496,1.59448 0.77756 -0.31496,2.50000 0.77756 0.61410,2.52446 0.77756 0.59533,2.20472 0.77756 0.33464,2.44094 0.77756 0.62992,2.47151 0.77756 0.62590,1.35827 0.77756 -0.37401,2.10629 0.77756 0.49212,2.10629 0.77756 0.33464,1.24015 0.77756 -0.31496,1.35827 0.77756 -0.31496,1.22047 0.77756 -0.31496,1.10236 0.77756 -0.37401,1.10236 0.77756 -0.31496,1.73228 0.77756 0.33464,1.71259 0.77756 0.33464,1.83071 0.77756 0.49212,1.83071 0.77756 0.33464,0.86614 0.77756 -0.37401,1.61417 0.77756 0.49212,1.61417 0.77756 0.33464,0.74803 0.77756 -0.31496,0.86614 0.77756 -0.31496,0.72835 0.77756 -0.31496,0.61023 0.77756 -0.37401,0.61023 0.77756 -0.31496,1.24015 0.77756 0.33464,1.22047 0.77756 0.33464,1.33858 0.77756 0.49212,1.33858 0.77756 0.33464,0.37401 0.77756 -0.37401,1.12204 0.77756 0.49212,1.12204 0.77756 0.33464,0.25590 0.77756 -0.31496,0.37401 0.77756 -0.31496,0.11811 0.77756 -0.37401,0.23622 0.77756 -0.31496,0.11811 0.77756 -0.31496,0.74803 0.77756 0.33464,0.72835 0.77756 0.33464,0.84645 0.77756 0.49212,0.84645 0.77756 0.33464,0.62992 0.77756 0.49212,0.62992 0.77756 0.33464,-0.23622 0.77756 -0.31496,-0.11811 0.77756 -0.31496,-0.11811 0.77756 -0.37401,-0.25590 0.77756 -0.31496,-0.37401 0.77756 -0.37401,-0.37401 0.77756 -0.31496,0.25590 0.77756 0.33464,0.23622 0.77756 0.33464,0.35433 0.77756 0.49212,0.35433 0.77756 0.33464,0.13780 0.77756 0.49212,0.13780 0.77756 0.33464,-0.72835 0.77756 -0.31496,-0.61023 0.77756 -0.31496,-0.61023 0.77756 -0.37401,-0.86614 0.77756 -0.37401,-0.74803 0.77756 -0.31496,-0.86614 0.77756 -0.31496,-0.23622 0.77756 0.33464,-0.25590 0.77756 0.33464,-0.13780 0.77756 0.49212,-0.13780 0.77756 0.33464,-0.35433 0.77756 0.49212,-0.35433 0.77756 0.33464,-1.22047 0.77756 -0.31496,-1.10236 0.77756 -0.31496,-1.10236 0.77756 -0.37401,-1.35827 0.77756 -0.37401,-1.24015 0.77756 -0.31496,-1.35827 0.77756 -0.31496,-0.72835 0.77756 0.33464,-0.74803 0.77756 0.33464,-0.62992 0.77756 0.49212,-0.62992 0.77756 0.33464,-0.84645 0.77756 0.49212,-0.84645 0.77756 0.33464,-1.71259 0.77756 -0.31496,-1.59448 0.77756 -0.31496,-1.59448 0.77756 -0.37401,-1.73228 0.77756 -0.31496,-1.85039 0.77756 -0.37401,-1.85039 0.77756 -0.31496,-1.22047 0.77756 0.33464,-1.24015 0.77756 0.33464,-1.12204 0.77756 0.49212,-1.12204 0.77756 0.33464,-2.44094 0.77756 -0.62992,-2.08661 0.77756 -0.37401,-1.33858 0.77756 0.49212,-1.33858 0.77756 0.33464,-2.20472 0.77756 -0.31496,-2.08661 0.77756 -0.31496,-2.52446 0.77756 -0.59533,-2.47151 0.77756 -0.62590,-2.50000 0.77756 -0.61410,-2.55503 0.77756 -0.54238,-2.54323 0.77756 -0.57087,-1.71259 0.77756 0.33464,-2.55905 0.77756 -0.51181,-1.73228 0.77756 0.33464,-1.61417 0.77756 0.49212,-1.61417 0.77756 0.33464,-1.83071 0.77756 0.49212,-1.83071 0.77756 0.33464,-2.10629 0.77756 0.49212,-2.10629 0.77756 0.33464,-2.20472 0.77756 0.33464,-2.44094 0.77756 0.62992,-2.55905 0.77756 0.51181,-2.55503 0.77756 0.54238,-2.47151 0.77756 0.62590,-2.52446 0.77756 0.59533,-2.54323 0.77756 0.57086,-2.50000 0.77756 0.61410]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-2.20472 0.77756 0.33464,-2.16535 0.73819 -0.27559,-2.20472 0.77756 -0.31496,-2.16535 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-2.16535 0.73819 -0.27559,-2.08661 0.77756 -0.31496,-2.20472 0.77756 -0.31496,-2.04724 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-2.04724 0.73819 -0.33464,-2.08661 0.77756 -0.37401,-2.08661 0.77756 -0.31496,-2.04724 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-2.04724 0.73819 -0.33464,-1.85039 0.77756 -0.37401,-2.08661 0.77756 -0.37401,-1.88976 0.73819 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.88976 0.73819 -0.33464,-1.85039 0.77756 -0.31496,-1.85039 0.77756 -0.37401,-1.88976 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-1.85039 0.77756 -0.31496,-1.77165 0.73819 -0.27559,-1.73228 0.77756 -0.31496,-1.88976 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.77165 0.73819 -0.27559,-1.73228 0.77756 0.33464,-1.73228 0.77756 -0.31496,-1.77165 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.77165 0.73819 0.29528,-1.83071 0.77756 0.33464,-1.73228 0.77756 0.33464,-1.87007 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-1.83071 0.77756 0.33464,-1.87007 0.73819 0.45275,-1.83071 0.77756 0.49212,-1.87007 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.87007 0.73819 0.45275,-2.10629 0.77756 0.49212,-1.83071 0.77756 0.49212,-2.06692 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-2.06692 0.73819 0.45275,-2.10629 0.77756 0.33464,-2.10629 0.77756 0.49212,-2.06692 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-2.10629 0.77756 0.33464,-2.16535 0.73819 0.29528,-2.20472 0.77756 0.33464,-2.06692 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,4,5,6,-1,7,5,4,-1,8,9,10,-1,8,10,11,-1,7,3,5,-1,2,5,3,-1,10,1,0,-1,10,0,11,-1]
+coord Coordinate { point [-1.87007 0.02992 0.29528,-1.79133 -0.20669 0.29528,-2.14567 -0.20669 0.29528,-2.06692 0.02992 0.29528,-2.16535 0.73819 0.29528,-2.14567 0.46260 0.29528,-2.16535 0.46260 0.29528,-2.06692 0.73819 0.29528,-1.77165 0.73819 0.29528,-1.77165 0.46260 0.29528,-1.79133 0.46260 0.29528,-1.87007 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-2.06692 0.02992 0.29528,-1.87007 0.46260 0.45275,-1.87007 0.02992 0.29528,-2.06692 0.46260 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.87007 0.46260 0.45275,-1.87007 0.73819 0.45275,-1.87007 0.73819 0.29528,-1.87007 0.02992 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.87007 0.46260 0.45275,-2.06692 0.46260 0.45275,-2.06692 0.73819 0.45275,-1.87007 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-2.06692 0.46260 0.45275,-2.06692 0.02992 0.29528,-2.06692 0.73819 0.29528,-2.06692 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-2.16535 0.73819 -0.27559,-2.16535 0.73819 0.29528,-2.16535 0.46260 0.29528,-2.16535 -0.32480 -0.27559,-2.16535 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-2.30314 -0.32480 0.29528,-2.16535 -0.32480 0.29528,-2.16535 0.46260 0.29528,-2.30314 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [-1.77165 -0.32480 0.29528,-1.67322 -0.32480 0.29528,-1.77165 0.46260 0.29528,-1.67322 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [-1.27953 -0.32480 0.29528,-1.18110 -0.32480 0.29528,-1.27953 0.46260 0.29528,-1.18110 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [-0.78740 -0.32480 0.29528,-0.68898 -0.32480 0.29528,-0.78740 0.46260 0.29528,-0.68898 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [-0.29528 -0.32480 0.29528,-0.19685 -0.32480 0.29528,-0.29528 0.46260 0.29528,-0.19685 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [0.19685 -0.32480 0.29528,0.29528 -0.32480 0.29528,0.19685 0.46260 0.29528,0.29528 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [0.68898 -0.32480 0.29528,0.78740 -0.32480 0.29528,0.68898 0.46260 0.29528,0.78740 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [1.18110 -0.32480 0.29528,1.27953 -0.32480 0.29528,1.18110 0.46260 0.29528,1.27953 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1]
+coord Coordinate { point [1.67322 -0.32480 0.29528,1.77165 -0.32480 0.29528,1.67322 0.46260 0.29528,1.77165 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [2.16535 0.46260 0.29528,2.16535 -0.32480 0.29528,2.30314 0.46260 0.29528,2.30314 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-2.30314 -0.32480 0.45275,-2.16535 -0.32480 0.45275,-2.16535 -0.32480 0.29528,-2.30314 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.77165 -0.32480 0.45275,-1.67322 -0.32480 0.45275,-1.67322 -0.32480 0.29528,-1.77165 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.27953 -0.32480 0.45275,-1.18110 -0.32480 0.45275,-1.18110 -0.32480 0.29528,-1.27953 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.78740 -0.32480 0.45275,-0.68898 -0.32480 0.45275,-0.68898 -0.32480 0.29528,-0.78740 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.29528 -0.32480 0.45275,-0.19685 -0.32480 0.45275,-0.19685 -0.32480 0.29528,-0.29528 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.19685 -0.32480 0.45275,0.29528 -0.32480 0.45275,0.29528 -0.32480 0.29528,0.19685 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.68898 -0.32480 0.45275,0.78740 -0.32480 0.45275,0.78740 -0.32480 0.29528,0.68898 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.18110 -0.32480 0.45275,1.27953 -0.32480 0.45275,1.27953 -0.32480 0.29528,1.18110 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.67322 -0.32480 0.45275,1.77165 -0.32480 0.45275,1.77165 -0.32480 0.29528,1.67322 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [2.16535 -0.32480 0.29528,2.16535 -0.32480 0.45275,2.30314 -0.32480 0.29528,2.30314 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,3,4,-1,0,2,4,-1]
+coord Coordinate { point [-2.04724 -0.48228 -0.27559,-2.16535 -0.32480 -0.27559,-2.16535 -0.32480 0.29528,-2.16535 -0.32480 0.45275,-2.04724 -0.48228 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.88976 0.73819 -0.27559,-1.88976 -0.48228 -0.27559,-1.77165 -0.32480 -0.27559,-1.77165 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-2.04724 0.73819 -0.27559,-2.16535 -0.32480 -0.27559,-2.04724 -0.48228 -0.27559,-2.16535 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,2,3,4,-1]
+coord Coordinate { point [-1.77165 -0.32480 -0.27559,-1.88976 -0.48228 -0.27559,-1.77165 -0.32480 0.29528,-1.88976 -0.48228 0.45275,-1.77165 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,0,2,4,-1]
+coord Coordinate { point [-1.77165 0.73819 -0.27559,-1.77165 -0.32480 -0.27559,-1.77165 0.46260 0.29528,-1.77165 -0.32480 0.29528,-1.77165 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,5,6,-1,3,2,7,-1,5,8,6,-1,9,3,7,-1,8,5,10,-1,4,6,11,-1,12,13,14,-1,15,10,16,-1,12,14,17,-1,10,5,16,-1,18,12,17,-1,18,17,19,-1,15,16,20,-1,21,22,23,-1,16,5,24,-1,25,15,26,-1,15,20,26,-1,21,23,27,-1,28,24,29,-1,30,21,31,-1,21,27,31,-1,32,23,33,-1,34,28,35,-1,22,14,33,-1,23,22,33,-1,28,29,35,-1,32,33,36,-1,34,35,37,-1,38,36,39,-1,36,33,39,-1,24,5,33,-1,29,24,33,-1,40,29,33,-1,41,40,33,-1,42,41,33,-1,43,42,33,-1,44,43,33,-1,45,44,33,-1,0,45,33,-1,1,0,33,-1,13,1,33,-1,14,13,33,-1,46,40,47,-1,40,41,47,-1,46,47,48,-1,49,46,48,-1,42,43,50,-1,51,42,50,-1,51,50,52,-1,53,51,52,-1,44,45,54,-1,55,44,54,-1,56,55,54,-1,56,54,57,-1]
+coord Coordinate { point [0.57086 -0.63976 0.45275,0.90551 -0.63976 0.45275,0.90551 -0.48228 0.45275,0.57086 -0.48228 0.45275,-2.30314 -0.32480 0.45275,-2.30314 -0.77756 0.45275,-2.04724 -0.48228 0.45275,0.78740 -0.32480 0.45275,-2.04724 -0.63976 0.45275,0.68898 -0.32480 0.45275,-1.88976 -0.63976 0.45275,-2.16535 -0.32480 0.45275,1.06299 -0.48228 0.45275,1.06299 -0.63976 0.45275,1.39763 -0.63976 0.45275,-1.88976 -0.48228 0.45275,-1.55512 -0.63976 0.45275,1.39763 -0.48228 0.45275,1.18110 -0.32480 0.45275,1.27953 -0.32480 0.45275,-1.55512 -0.48228 0.45275,1.55512 -0.48228 0.45275,1.55512 -0.63976 0.45275,1.88976 -0.63976 0.45275,-1.39763 -0.63976 0.45275,-1.77165 -0.32480 0.45275,-1.67322 -0.32480 0.45275,1.88976 -0.48228 0.45275,-1.39763 -0.48228 0.45275,-1.06299 -0.63976 0.45275,1.67322 -0.32480 0.45275,1.77165 -0.32480 0.45275,2.04724 -0.63976 0.45275,2.30314 -0.77756 0.45275,-1.27953 -0.32480 0.45275,-1.06299 -0.48228 0.45275,2.04724 -0.48228 0.45275,-1.18110 -0.32480 0.45275,2.16535 -0.32480 0.45275,2.30314 -0.32480 0.45275,-0.90551 -0.63976 0.45275,-0.57086 -0.63976 0.45275,-0.41339 -0.63976 0.45275,-0.07874 -0.63976 0.45275,0.07874 -0.63976 0.45275,0.41339 -0.63976 0.45275,-0.90551 -0.48228 0.45275,-0.57086 -0.48228 0.45275,-0.68898 -0.32480 0.45275,-0.78740 -0.32480 0.45275,-0.07874 -0.48228 0.45275,-0.41339 -0.48228 0.45275,-0.19685 -0.32480 0.45275,-0.29528 -0.32480 0.45275,0.41339 -0.48228 0.45275,0.07874 -0.48228 0.45275,0.19685 -0.32480 0.45275,0.29528 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,3,4,-1,0,2,4,-1]
+coord Coordinate { point [1.88976 -0.48228 -0.27559,1.77165 -0.32480 -0.27559,1.77165 -0.32480 0.29528,1.77165 -0.32480 0.45275,1.88976 -0.48228 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [2.04724 0.73819 -0.27559,2.04724 -0.48228 -0.27559,2.16535 -0.32480 -0.27559,2.16535 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.88976 0.73819 -0.27559,1.77165 -0.32480 -0.27559,1.88976 -0.48228 -0.27559,1.77165 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,2,4,5,-1,3,2,5,-1,0,3,6,-1,6,3,7,-1]
+coord Coordinate { point [2.04724 -0.71850 -0.33464,2.04724 -0.71850 0.03937,2.04724 -0.63976 0.03937,2.04724 -0.48228 -0.27559,2.04724 -0.63976 0.45275,2.04724 -0.48228 0.45275,2.04724 0.73819 -0.33464,2.04724 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,5,3,4,-1,0,2,4,-1]
+coord Coordinate { point [2.03740 -0.71850 -0.33464,2.04724 -0.71850 -0.33464,2.04724 0.73819 -0.33464,1.89960 -0.71850 -0.33464,1.88976 0.73819 -0.33464,1.88976 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [2.03740 -0.71850 -0.33464,2.03740 -0.71850 0.03937,2.04724 -0.71850 0.03937,2.04724 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [1.89960 -0.71850 -0.33464,1.88976 -0.71850 -0.33464,1.88976 -0.71850 0.03937,1.89960 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,0,3,-1]
+coord Coordinate { point [2.03740 -0.71850 -0.33464,2.03740 -0.71850 -0.45275,2.09645 -0.77756 -0.45275,2.09645 -0.77756 0.09842,2.03740 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,3,6,0,-1,3,5,7,-1,3,7,6,-1,3,0,2,-1,3,8,9,-1,10,11,12,-1,3,9,13,-1,3,13,14,-1,3,14,15,-1,3,15,16,-1,3,16,17,-1,3,17,18,-1,3,18,19,-1,3,19,20,-1,8,11,10,-1,3,20,4,-1,21,8,10,-1,22,23,24,-1,22,21,23,-1,22,8,21,-1,25,8,22,-1,9,26,27,-1,9,25,26,-1,9,8,25,-1,14,28,29,-1,14,13,28,-1,16,30,31,-1,16,15,30,-1,18,32,33,-1,18,17,32,-1,20,34,35,-1,20,19,34,-1,5,36,37,-1,5,4,36,-1,6,38,39,-1,6,7,38,-1]
+coord Coordinate { point [2.09645 -0.77756 0.09842,2.09645 -0.77756 -0.45275,2.30314 -0.77756 -0.45275,2.30314 -0.77756 0.45275,1.11220 -0.77756 0.09842,1.34842 -0.77756 0.09842,1.84055 -0.77756 0.09842,1.60433 -0.77756 0.09842,-2.30314 -0.77756 0.45275,-1.11220 -0.77756 0.09842,-2.09645 -0.77756 0.09842,-2.30314 -0.77756 -0.45275,-2.09645 -0.77756 -0.45275,-0.85630 -0.77756 0.09842,-0.62008 -0.77756 0.09842,-0.36417 -0.77756 0.09842,-0.12795 -0.77756 0.09842,0.12795 -0.77756 0.09842,0.36417 -0.77756 0.09842,0.62008 -0.77756 0.09842,0.85630 -0.77756 0.09842,-1.84055 -0.77756 0.09842,-1.60433 -0.77756 0.09842,-1.84055 -0.77756 -0.45275,-1.60433 -0.77756 -0.45275,-1.34842 -0.77756 0.09842,-1.34842 -0.77756 -0.45275,-1.11220 -0.77756 -0.45275,-0.85630 -0.77756 -0.45275,-0.62008 -0.77756 -0.45275,-0.36417 -0.77756 -0.45275,-0.12795 -0.77756 -0.45275,0.12795 -0.77756 -0.45275,0.36417 -0.77756 -0.45275,0.62008 -0.77756 -0.45275,0.85630 -0.77756 -0.45275,1.11220 -0.77756 -0.45275,1.34842 -0.77756 -0.45275,1.60433 -0.77756 -0.45275,1.84055 -0.77756 -0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.89960 -0.71850 0.03937,2.09645 -0.77756 0.09842,1.84055 -0.77756 0.09842,2.03740 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1]
+coord Coordinate { point [2.04724 -0.63976 0.03937,2.04724 -0.71850 0.03937,2.03740 -0.71850 0.03937,1.88976 -0.63976 0.03937,1.89960 -0.71850 0.03937,1.88976 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [2.04724 -0.63976 0.03937,1.88976 -0.63976 0.03937,2.04724 -0.63976 0.45275,1.88976 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1,4,2,6,-1,4,6,7,-1]
+coord Coordinate { point [1.88976 0.73819 -0.33464,1.88976 0.73819 -0.27559,1.88976 -0.48228 -0.27559,1.88976 -0.71850 -0.33464,1.88976 -0.63976 0.03937,1.88976 -0.71850 0.03937,1.88976 -0.48228 0.45275,1.88976 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.88976 0.73819 -0.33464,1.85039 0.77756 -0.37401,1.85039 0.77756 -0.31496,1.88976 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.88976 0.73819 -0.33464,2.08661 0.77756 -0.37401,1.85039 0.77756 -0.37401,2.04724 0.73819 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [2.04724 0.73819 -0.33464,2.08661 0.77756 -0.31496,2.08661 0.77756 -0.37401,2.04724 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [2.08661 0.77756 -0.31496,2.16535 0.73819 -0.27559,2.20472 0.77756 -0.31496,2.04724 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [2.16535 0.73819 -0.27559,2.20472 0.77756 0.33464,2.20472 0.77756 -0.31496,2.16535 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [2.16535 0.73819 0.29528,2.10629 0.77756 0.33464,2.20472 0.77756 0.33464,2.06692 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [2.10629 0.77756 0.33464,2.06692 0.73819 0.45275,2.10629 0.77756 0.49212,2.06692 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [2.06692 0.73819 0.45275,1.83071 0.77756 0.49212,2.10629 0.77756 0.49212,1.87007 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.87007 0.73819 0.45275,1.83071 0.77756 0.33464,1.83071 0.77756 0.49212,1.87007 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.83071 0.77756 0.33464,1.77165 0.73819 0.29528,1.73228 0.77756 0.33464,1.87007 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.73228 0.77756 0.33464,1.77165 0.73819 -0.27559,1.73228 0.77756 -0.31496,1.77165 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.77165 0.73819 -0.27559,1.85039 0.77756 -0.31496,1.73228 0.77756 -0.31496,1.88976 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [1.77165 0.73819 -0.27559,1.77165 0.73819 0.29528,1.77165 0.46260 0.29528,1.77165 -0.32480 -0.27559,1.77165 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,4,5,6,-1,4,6,7,-1,8,9,10,-1,9,11,10,-1,4,7,3,-1,1,4,3,-1,2,9,0,-1,9,2,11,-1]
+coord Coordinate { point [2.14567 -0.20669 0.29528,1.79133 -0.20669 0.29528,2.06692 0.02992 0.29528,1.87007 0.02992 0.29528,1.79133 0.46260 0.29528,1.77165 0.46260 0.29528,1.77165 0.73819 0.29528,1.87007 0.73819 0.29528,2.16535 0.46260 0.29528,2.14567 0.46260 0.29528,2.16535 0.73819 0.29528,2.06692 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.87007 0.02992 0.29528,2.06692 0.46260 0.45275,2.06692 0.02992 0.29528,1.87007 0.46260 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [2.06692 0.46260 0.45275,2.06692 0.73819 0.45275,2.06692 0.73819 0.29528,2.06692 0.02992 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [2.06692 0.46260 0.45275,1.87007 0.46260 0.45275,1.87007 0.73819 0.45275,2.06692 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [1.87007 0.46260 0.45275,1.87007 0.02992 0.29528,1.87007 0.73819 0.29528,1.87007 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,4,-1,2,1,4,-1]
+coord Coordinate { point [-2.30314 0.46260 0.29528,-2.16535 0.46260 0.29528,-2.30314 0.46260 0.62992,-2.14567 0.46260 0.29528,-2.14567 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,1,4,5,-1,2,1,5,-1]
+coord Coordinate { point [-1.77165 0.46260 0.29528,-1.67322 0.46260 0.29528,-1.79133 0.46260 0.62992,-1.79133 0.46260 0.29528,-1.65354 0.46260 0.29528,-1.65354 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,1,4,5,-1,2,1,5,-1]
+coord Coordinate { point [-1.27953 0.46260 0.29528,-1.18110 0.46260 0.29528,-1.29921 0.46260 0.62992,-1.29921 0.46260 0.29528,-1.16142 0.46260 0.29528,-1.16142 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,1,4,5,-1,2,1,5,-1]
+coord Coordinate { point [-0.78740 0.46260 0.29528,-0.68898 0.46260 0.29528,-0.80708 0.46260 0.62992,-0.80708 0.46260 0.29528,-0.66929 0.46260 0.29528,-0.66929 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,1,4,5,-1,2,1,5,-1]
+coord Coordinate { point [-0.29528 0.46260 0.29528,-0.19685 0.46260 0.29528,-0.31496 0.46260 0.62992,-0.31496 0.46260 0.29528,-0.17716 0.46260 0.29528,-0.17716 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [0.17716 0.46260 0.29528,0.19685 0.46260 0.29528,0.17716 0.46260 0.62992,0.29528 0.46260 0.29528,0.31496 0.46260 0.29528,0.31496 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [0.66929 0.46260 0.29528,0.68898 0.46260 0.29528,0.66929 0.46260 0.62992,0.78740 0.46260 0.29528,0.80708 0.46260 0.29528,0.80708 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [1.16142 0.46260 0.29528,1.18110 0.46260 0.29528,1.16142 0.46260 0.62992,1.27953 0.46260 0.29528,1.29921 0.46260 0.29528,1.29921 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [1.65354 0.46260 0.29528,1.67322 0.46260 0.29528,1.65354 0.46260 0.62992,1.77165 0.46260 0.29528,1.79133 0.46260 0.29528,1.79133 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,4,-1,2,1,4,-1]
+coord Coordinate { point [2.14567 0.46260 0.29528,2.16535 0.46260 0.29528,2.14567 0.46260 0.62992,2.30314 0.46260 0.29528,2.30314 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [-2.14567 -0.17980 0.55118,-2.14567 0.02953 0.55118,-2.14567 -0.20669 0.29528,-2.14567 0.24586 0.62992,-2.14567 0.46260 0.62992,-2.14567 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,3,5,6,-1,3,7,8,-1,3,8,5,-1,9,10,11,-1,3,6,1,-1,3,1,0,-1,3,12,13,-1,12,14,10,-1,3,13,15,-1,3,15,16,-1,3,16,17,-1,12,10,9,-1,3,17,18,-1,3,18,19,-1,3,19,20,-1,3,20,21,-1,3,21,22,-1,3,22,7,-1,23,24,25,-1,23,9,24,-1,23,12,9,-1,26,12,23,-1,27,28,29,-1,27,26,28,-1,27,12,26,-1,13,12,27,-1,15,30,31,-1,15,13,30,-1,17,32,33,-1,17,16,32,-1,19,34,35,-1,19,18,34,-1,21,36,37,-1,21,20,36,-1,7,38,39,-1,7,22,38,-1,5,40,41,-1,5,8,40,-1,1,42,43,-1,1,6,42,-1]
+coord Coordinate { point [2.30314 0.54134 0.62992,2.14567 0.46260 0.62992,2.30314 0.46260 0.62992,2.44094 0.77756 0.62992,2.44094 0.54134 0.62992,1.65354 0.46260 0.62992,1.79133 0.46260 0.62992,1.16142 0.46260 0.62992,1.29921 0.46260 0.62992,-2.14567 0.46260 0.62992,-2.30314 0.54134 0.62992,-2.30314 0.46260 0.62992,-2.44094 0.77756 0.62992,-1.16142 0.46260 0.62992,-2.44094 0.54134 0.62992,-0.80708 0.46260 0.62992,-0.66929 0.46260 0.62992,-0.31496 0.46260 0.62992,-0.17716 0.46260 0.62992,0.17716 0.46260 0.62992,0.31496 0.46260 0.62992,0.66929 0.46260 0.62992,0.80708 0.46260 0.62992,-1.79133 0.46260 0.62992,-2.14567 0.24586 0.62992,-1.79133 0.24586 0.62992,-1.65354 0.46260 0.62992,-1.29921 0.46260 0.62992,-1.65354 0.24586 0.62992,-1.29921 0.24586 0.62992,-1.16142 0.24586 0.62992,-0.80708 0.24586 0.62992,-0.66929 0.24586 0.62992,-0.31496 0.24586 0.62992,-0.17716 0.24586 0.62992,0.17716 0.24586 0.62992,0.31496 0.24586 0.62992,0.66929 0.24586 0.62992,0.80708 0.24586 0.62992,1.16142 0.24586 0.62992,1.29921 0.24586 0.62992,1.65354 0.24586 0.62992,1.79133 0.24586 0.62992,2.14567 0.24586 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,2,4,-1,3,4,5,-1,3,0,2,-1,6,5,7,-1,6,7,8,-1,6,3,5,-1,9,8,10,-1,9,6,8,-1,11,10,12,-1,11,12,13,-1,11,9,10,-1,14,13,15,-1,14,11,13,-1,16,15,17,-1,16,14,15,-1]
+coord Coordinate { point [2.44094 0.77756 0.62992,2.44094 0.54134 0.62992,2.45850 0.54265 0.62861,2.47151 0.77756 0.62590,2.47479 0.54629 0.62497,2.48957 0.55181 0.61945,2.50000 0.77756 0.61410,2.50279 0.55882 0.61243,2.51804 0.56997 0.60128,2.52446 0.77756 0.59533,2.53211 0.58436 0.58689,2.54323 0.77756 0.57087,2.54308 0.60013 0.57112,2.55312 0.62248 0.54877,2.55503 0.77756 0.54238,2.55761 0.64107 0.53018,2.55905 0.77756 0.51181,2.55905 0.65945 0.51181]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [2.55905 0.77756 0.51181,2.55905 0.65945 -0.51181,2.55905 0.77756 -0.51181,2.55905 0.65945 0.51181]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,2,4,-1,3,0,2,-1,5,4,6,-1,5,3,4,-1,7,5,6,-1,8,6,9,-1,8,7,6,-1,10,11,12,-1,10,9,11,-1,10,8,9,-1,13,10,12,-1]
+coord Coordinate { point [2.44094 0.65945 -0.62992,2.44094 0.77756 -0.62992,2.47151 0.77756 -0.62590,2.47151 0.65945 -0.62590,2.50000 0.77756 -0.61410,2.50000 0.65945 -0.61410,2.52446 0.77756 -0.59533,2.52446 0.65945 -0.59533,2.54323 0.65945 -0.57087,2.54323 0.77756 -0.57086,2.55503 0.65945 -0.54238,2.55503 0.77756 -0.54238,2.55905 0.77756 -0.51181,2.55905 0.65945 -0.51181]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,3,5,6,-1,3,6,7,-1,8,7,9,-1,8,3,7,-1,10,11,4,-1,10,4,3,-1,10,3,8,-1,12,9,13,-1,12,8,9,-1,14,15,11,-1,14,11,10,-1,16,8,12,-1,16,10,8,-1,17,14,10,-1,17,10,16,-1,18,13,19,-1,18,12,13,-1,18,16,12,-1,20,2,15,-1,20,15,14,-1,20,0,2,-1,20,14,17,-1,21,16,18,-1,21,17,16,-1,22,19,23,-1,22,23,24,-1,22,24,25,-1,22,18,19,-1,26,27,28,-1,26,28,0,-1,26,0,20,-1,26,20,17,-1,26,17,21,-1,29,25,30,-1,29,21,18,-1,29,22,25,-1,29,18,22,-1,31,30,27,-1,31,29,30,-1,31,27,26,-1,31,26,21,-1,31,21,29,-1]
+coord Coordinate { point [2.55503 0.65945 -0.54238,2.55905 0.65945 -0.51181,2.55503 0.62888 -0.51181,2.47652 0.54803 -0.52827,2.50000 0.55716 -0.51181,2.47151 0.54536 -0.51181,2.44094 0.54134 -0.51181,2.44094 0.54536 -0.54238,2.46933 0.55523 -0.55959,2.44094 0.55716 -0.57086,2.50633 0.56793 -0.54786,2.52446 0.57593 -0.51181,2.45564 0.56891 -0.58622,2.44094 0.57593 -0.59533,2.53548 0.59104 -0.53006,2.54323 0.60039 -0.51181,2.49461 0.57965 -0.58038,2.52750 0.59901 -0.56477,2.47636 0.59790 -0.60619,2.44094 0.60039 -0.61410,2.54963 0.62659 -0.54433,2.51233 0.61418 -0.59430,2.45337 0.62089 -0.62276,2.44094 0.62888 -0.62590,2.44094 0.65945 -0.62992,2.47151 0.65945 -0.62590,2.53906 0.63716 -0.57367,2.52446 0.65945 -0.59533,2.54323 0.65945 -0.57087,2.49145 0.63506 -0.61575,2.50000 0.65945 -0.61410,2.52259 0.65362 -0.59695]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,2,4,-1,3,0,2,-1,5,3,4,-1,6,4,7,-1,6,7,8,-1,6,5,4,-1,9,6,8,-1,10,8,11,-1,10,11,12,-1,10,9,8,-1,13,10,12,-1]
+coord Coordinate { point [2.44094 0.54134 -0.51181,-2.44094 0.54134 -0.51181,-2.44094 0.54536 -0.54238,2.44094 0.54536 -0.54238,-2.44094 0.55716 -0.57086,2.44094 0.55716 -0.57086,2.44094 0.57593 -0.59533,-2.44094 0.57593 -0.59533,-2.44094 0.60039 -0.61410,2.44094 0.60039 -0.61410,2.44094 0.62888 -0.62590,-2.44094 0.62888 -0.62590,-2.44094 0.65945 -0.62992,2.44094 0.65945 -0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,5,6,-1,4,7,5,-1,8,2,1,-1,9,8,1,-1,10,11,8,-1,10,8,9,-1,12,13,14,-1,15,12,14,-1,9,15,14,-1,9,14,10,-1,7,1,0,-1,7,0,5,-1]
+coord Coordinate { point [-2.42125 0.54134 -0.11811,-2.44094 0.54134 -0.51181,-2.30314 0.54134 -0.45275,-2.30314 0.54134 -0.11811,-2.30314 0.54134 0.62992,-2.42125 0.54134 0.11811,-2.30314 0.54134 0.11811,-2.44094 0.54134 0.62992,2.30314 0.54134 -0.45275,2.44094 0.54134 -0.51181,2.42125 0.54134 -0.11811,2.30314 0.54134 -0.11811,2.30314 0.54134 0.62992,2.30314 0.54134 0.11811,2.42125 0.54134 0.11811,2.44094 0.54134 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,2,4,-1,3,0,2,-1,5,6,7,-1,5,4,6,-1,5,3,4,-1,8,7,9,-1,8,5,7,-1,10,11,12,-1,10,9,11,-1,10,8,9,-1,13,14,15,-1,13,12,14,-1,13,10,12,-1,16,15,17,-1,16,13,15,-1]
+coord Coordinate { point [2.55905 0.65945 -0.51181,2.55905 0.65945 0.51181,2.55761 0.64107 0.53018,2.55503 0.62888 -0.51181,2.55312 0.62248 0.54877,2.54323 0.60039 -0.51181,2.54308 0.60013 0.57112,2.53211 0.58436 0.58689,2.52446 0.57593 -0.51181,2.51804 0.56997 0.60128,2.50000 0.55716 -0.51181,2.50279 0.55882 0.61243,2.48957 0.55181 0.61945,2.47151 0.54536 -0.51181,2.47479 0.54629 0.62497,2.45850 0.54265 0.62861,2.44094 0.54134 -0.51181,2.44094 0.54134 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,2,4,-1,3,4,5,-1,3,0,2,-1,6,5,7,-1,6,7,8,-1,6,3,5,-1,9,8,10,-1,9,6,8,-1,11,10,12,-1,11,12,13,-1,11,9,10,-1,14,13,15,-1,14,11,13,-1,16,15,17,-1,16,14,15,-1]
+coord Coordinate { point [-2.44094 0.54134 -0.51181,-2.44094 0.54134 0.62992,-2.45850 0.54265 0.62861,-2.47151 0.54536 -0.51181,-2.47479 0.54629 0.62497,-2.48957 0.55181 0.61945,-2.50000 0.55716 -0.51181,-2.50279 0.55882 0.61243,-2.51804 0.56997 0.60128,-2.52446 0.57593 -0.51181,-2.53211 0.58436 0.58689,-2.54323 0.60039 -0.51181,-2.54308 0.60013 0.57112,-2.55312 0.62248 0.54877,-2.55503 0.62888 -0.51181,-2.55761 0.64107 0.53018,-2.55905 0.65945 -0.51181,-2.55905 0.65945 0.51181]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,3,5,6,-1,3,6,7,-1,8,7,9,-1,8,3,7,-1,10,11,4,-1,10,3,8,-1,10,4,3,-1,12,9,13,-1,12,8,9,-1,14,15,11,-1,14,11,10,-1,16,8,12,-1,16,10,8,-1,17,10,16,-1,17,14,10,-1,18,13,19,-1,18,12,13,-1,18,16,12,-1,20,2,15,-1,20,0,2,-1,20,15,14,-1,20,14,17,-1,21,16,18,-1,21,17,16,-1,22,23,24,-1,22,25,23,-1,22,19,25,-1,22,18,19,-1,26,27,0,-1,26,28,27,-1,26,0,20,-1,26,20,17,-1,26,17,21,-1,29,24,30,-1,29,22,24,-1,29,21,18,-1,29,18,22,-1,31,30,28,-1,31,29,30,-1,31,28,26,-1,31,26,21,-1,31,21,29,-1]
+coord Coordinate { point [-2.44094 0.54536 -0.54238,-2.44094 0.54134 -0.51181,-2.47151 0.54536 -0.51181,-2.55235 0.62387 -0.52827,-2.54323 0.60039 -0.51181,-2.55503 0.62888 -0.51181,-2.55905 0.65945 -0.51181,-2.55503 0.65945 -0.54238,-2.54516 0.63106 -0.55959,-2.54323 0.65945 -0.57087,-2.53246 0.59406 -0.54786,-2.52446 0.57593 -0.51181,-2.53147 0.64474 -0.58622,-2.52446 0.65945 -0.59533,-2.50935 0.56491 -0.53006,-2.50000 0.55716 -0.51181,-2.52074 0.60578 -0.58038,-2.50137 0.57289 -0.56477,-2.50249 0.62403 -0.60619,-2.50000 0.65945 -0.61410,-2.47380 0.55076 -0.54433,-2.48620 0.58805 -0.59430,-2.47950 0.64702 -0.62276,-2.44094 0.65945 -0.62992,-2.44094 0.62888 -0.62590,-2.47151 0.65945 -0.62590,-2.46323 0.56133 -0.57367,-2.44094 0.55716 -0.57086,-2.44094 0.57593 -0.59533,-2.46532 0.60893 -0.61575,-2.44094 0.60039 -0.61410,-2.44676 0.57779 -0.59695]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-2.55905 0.65945 0.51181,-2.55905 0.77756 -0.51181,-2.55905 0.65945 -0.51181,-2.55905 0.77756 0.51181]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,4,0,2,-1,5,2,6,-1,5,4,2,-1,7,5,6,-1,8,6,9,-1,8,7,6,-1,10,9,11,-1,10,8,9,-1,12,10,11,-1,13,11,14,-1,13,12,11,-1,15,14,16,-1,15,13,14,-1,17,15,16,-1]
+coord Coordinate { point [-2.45850 0.54265 0.62861,-2.44094 0.77756 0.62992,-2.47151 0.77756 0.62590,-2.44094 0.54134 0.62992,-2.47479 0.54629 0.62497,-2.48957 0.55181 0.61945,-2.50000 0.77756 0.61410,-2.50279 0.55882 0.61243,-2.51804 0.56997 0.60128,-2.52446 0.77756 0.59533,-2.53211 0.58436 0.58689,-2.54323 0.77756 0.57086,-2.54308 0.60013 0.57112,-2.55312 0.62248 0.54877,-2.55503 0.77756 0.54238,-2.55761 0.64107 0.53018,-2.55905 0.77756 0.51181,-2.55905 0.65945 0.51181]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,5,6,-1,4,7,5,-1,8,2,1,-1,9,10,4,-1,9,11,8,-1,9,4,6,-1,9,8,10,-1,1,10,8,-1]
+coord Coordinate { point [-2.30314 0.54134 0.62992,-2.30314 0.54134 0.11811,-2.30314 0.46260 0.29528,-2.30314 0.46260 0.62992,-2.30314 -0.67913 -0.11811,-2.30314 0.54134 -0.45275,-2.30314 -0.77756 -0.45275,-2.30314 0.54134 -0.11811,-2.30314 -0.32480 0.29528,-2.30314 -0.77756 0.45275,-2.30314 -0.67913 0.11811,-2.30314 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,5,4,6,-1,4,0,6,-1,7,8,9,-1,6,0,10,-1,8,7,11,-1,6,10,12,-1,13,9,14,-1,9,8,14,-1,12,10,15,-1,14,8,16,-1,15,10,17,-1,14,16,18,-1,15,17,19,-1,17,20,19,-1,20,17,21,-1,18,16,22,-1,17,2,21,-1,22,16,23,-1,22,23,24,-1,25,21,26,-1,24,23,27,-1,2,1,26,-1,23,11,28,-1,21,2,26,-1,27,23,28,-1,29,28,30,-1,28,11,31,-1,30,28,31,-1,31,11,32,-1,33,32,34,-1,35,33,34,-1,32,11,34,-1,34,11,36,-1,37,36,38,-1,39,37,38,-1,36,11,38,-1,40,41,42,-1,43,40,42,-1,44,45,46,-1,47,44,46,-1,42,41,0,-1,46,45,0,-1,41,38,0,-1,45,42,0,-1,11,7,0,-1,38,11,0,-1,0,7,1,-1,46,0,4,-1]
+coord Coordinate { point [1.54527 -0.20669 -0.45275,2.30314 0.54134 -0.45275,1.89960 -0.20669 -0.45275,1.11220 -0.77756 -0.45275,1.05315 -0.71850 -0.45275,1.34842 -0.77756 -0.45275,1.40748 -0.71850 -0.45275,-2.30314 0.54134 -0.45275,-1.89960 -0.20669 -0.45275,-2.30314 -0.77756 -0.45275,1.54527 -0.63976 -0.45275,-1.54527 -0.20669 -0.45275,1.54527 -0.71850 -0.45275,-2.09645 -0.77756 -0.45275,-2.03740 -0.71850 -0.45275,1.60433 -0.77756 -0.45275,-1.89960 -0.63976 -0.45275,1.89960 -0.63976 -0.45275,-1.89960 -0.71850 -0.45275,1.84055 -0.77756 -0.45275,1.89960 -0.71850 -0.45275,2.03740 -0.71850 -0.45275,-1.84055 -0.77756 -0.45275,-1.54527 -0.63976 -0.45275,-1.60433 -0.77756 -0.45275,2.09645 -0.77756 -0.45275,2.30314 -0.77756 -0.45275,-1.54527 -0.71850 -0.45275,-1.40748 -0.71850 -0.45275,-1.34842 -0.77756 -0.45275,-1.11220 -0.77756 -0.45275,-1.05315 -0.71850 -0.45275,-0.91535 -0.71850 -0.45275,-0.85630 -0.77756 -0.45275,-0.56102 -0.71850 -0.45275,-0.62008 -0.77756 -0.45275,-0.42323 -0.71850 -0.45275,-0.36417 -0.77756 -0.45275,-0.06890 -0.71850 -0.45275,-0.12795 -0.77756 -0.45275,0.12795 -0.77756 -0.45275,0.06890 -0.71850 -0.45275,0.42323 -0.71850 -0.45275,0.36417 -0.77756 -0.45275,0.62008 -0.77756 -0.45275,0.56102 -0.71850 -0.45275,0.91535 -0.71850 -0.45275,0.85630 -0.77756 -0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [2.03740 -0.71850 -0.45275,1.89960 -0.71850 -0.33464,1.89960 -0.71850 -0.45275,2.03740 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [1.84055 -0.77756 -0.45275,1.89960 -0.71850 -0.45275,1.89960 -0.71850 -0.33464,1.84055 -0.77756 0.09842,1.89960 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1,4,0,2,-1,5,1,3,-1,6,0,4,-1,7,1,5,-1,8,4,9,-1,10,11,8,-1,10,8,9,-1,2,9,4,-1]
+coord Coordinate { point [2.30314 -0.77756 0.45275,2.30314 -0.67913 -0.11811,2.30314 -0.67913 0.11811,2.30314 -0.77756 -0.45275,2.30314 -0.32480 0.29528,2.30314 0.54134 -0.45275,2.30314 -0.32480 0.45275,2.30314 0.54134 -0.11811,2.30314 0.46260 0.29528,2.30314 0.54134 0.11811,2.30314 0.54134 0.62992,2.30314 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-2.30314 0.54134 0.11811,-2.42125 0.54134 0.11811,-2.42125 -0.47456 0.11811,-2.30314 -0.67913 0.11811]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [2.42125 0.54134 0.11811,2.30314 0.54134 0.11811,2.42125 -0.47456 0.11811,2.30314 -0.67913 0.11811]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-2.30314 -0.67913 0.11811,-2.42125 -0.47456 -0.11811,-2.30314 -0.67913 -0.11811,-2.42125 -0.47456 0.11811]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-2.42125 -0.47456 -0.11811,-2.42125 0.54134 -0.11811,-2.30314 0.54134 -0.11811,-2.30314 -0.67913 -0.11811]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [2.42125 -0.47456 -0.11811,2.30314 0.54134 -0.11811,2.42125 0.54134 -0.11811,2.30314 -0.67913 -0.11811]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-2.42125 -0.47456 0.11811,-2.42125 0.54134 -0.11811,-2.42125 -0.47456 -0.11811,-2.42125 0.54134 0.11811]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [2.42125 -0.47456 0.11811,2.30314 -0.67913 0.11811,2.30314 -0.67913 -0.11811,2.42125 -0.47456 -0.11811]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [2.42125 0.54134 0.11811,2.42125 -0.47456 -0.11811,2.42125 0.54134 -0.11811,2.42125 -0.47456 0.11811]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-2.09645 -0.77756 -0.45275,-2.03740 -0.71850 -0.45275,-2.03740 -0.71850 -0.33464,-2.09645 -0.77756 0.09842,-2.03740 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-2.03740 -0.71850 0.03937,-1.84055 -0.77756 0.09842,-2.09645 -0.77756 0.09842,-1.89960 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,0,3,-1]
+coord Coordinate { point [-1.89960 -0.71850 -0.33464,-1.89960 -0.71850 -0.45275,-1.84055 -0.77756 -0.45275,-1.84055 -0.77756 0.09842,-1.89960 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.89960 -0.71850 -0.33464,-2.03740 -0.71850 -0.45275,-1.89960 -0.71850 -0.45275,-2.03740 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,5,3,4,-1,0,2,4,-1]
+coord Coordinate { point [-1.89960 -0.71850 -0.33464,-1.88976 -0.71850 -0.33464,-1.88976 0.73819 -0.33464,-2.03740 -0.71850 -0.33464,-2.04724 0.73819 -0.33464,-2.04724 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,2,4,5,-1,3,2,5,-1,0,3,6,-1,6,3,7,-1]
+coord Coordinate { point [-1.88976 -0.71850 -0.33464,-1.88976 -0.71850 0.03937,-1.88976 -0.63976 0.03937,-1.88976 -0.48228 -0.27559,-1.88976 -0.63976 0.45275,-1.88976 -0.48228 0.45275,-1.88976 0.73819 -0.33464,-1.88976 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-2.04724 -0.63976 0.03937,-2.04724 -0.63976 0.45275,-1.88976 -0.63976 0.45275,-1.88976 -0.63976 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1,4,2,6,-1,4,6,7,-1]
+coord Coordinate { point [-2.04724 0.73819 -0.33464,-2.04724 0.73819 -0.27559,-2.04724 -0.48228 -0.27559,-2.04724 -0.71850 -0.33464,-2.04724 -0.63976 0.03937,-2.04724 -0.71850 0.03937,-2.04724 -0.48228 0.45275,-2.04724 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.89960 -0.71850 -0.33464,-1.89960 -0.71850 0.03937,-1.88976 -0.71850 0.03937,-1.88976 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-2.03740 -0.71850 -0.33464,-2.04724 -0.71850 -0.33464,-2.04724 -0.71850 0.03937,-2.03740 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1]
+coord Coordinate { point [-1.88976 -0.63976 0.03937,-1.88976 -0.71850 0.03937,-1.89960 -0.71850 0.03937,-2.04724 -0.63976 0.03937,-2.03740 -0.71850 0.03937,-2.04724 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-1.60433 -0.77756 -0.45275,-1.54527 -0.71850 -0.45275,-1.54527 -0.71850 -0.33464,-1.60433 -0.77756 0.09842,-1.54527 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.54527 -0.71850 0.03937,-1.34842 -0.77756 0.09842,-1.60433 -0.77756 0.09842,-1.40748 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,0,3,-1]
+coord Coordinate { point [-1.40748 -0.71850 -0.33464,-1.40748 -0.71850 -0.45275,-1.34842 -0.77756 -0.45275,-1.34842 -0.77756 0.09842,-1.40748 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-1.40748 -0.71850 -0.45275,-1.54527 -0.71850 -0.33464,-1.54527 -0.71850 -0.45275,-1.40748 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,5,3,4,-1,0,2,4,-1]
+coord Coordinate { point [-1.40748 -0.71850 -0.33464,-1.39763 -0.71850 -0.33464,-1.39763 0.73819 -0.33464,-1.54527 -0.71850 -0.33464,-1.55512 0.73819 -0.33464,-1.55512 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,2,4,5,-1,3,2,5,-1,0,3,6,-1,6,3,7,-1]
+coord Coordinate { point [-1.39763 -0.71850 -0.33464,-1.39763 -0.71850 0.03937,-1.39763 -0.63976 0.03937,-1.39763 -0.48228 -0.27559,-1.39763 -0.63976 0.45275,-1.39763 -0.48228 0.45275,-1.39763 0.73819 -0.33464,-1.39763 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.39763 0.73819 -0.33464,-1.35827 0.77756 -0.31496,-1.35827 0.77756 -0.37401,-1.39763 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-1.35827 0.77756 -0.31496,-1.27953 0.73819 -0.27559,-1.24015 0.77756 -0.31496,-1.39763 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.27953 0.73819 -0.27559,-1.24015 0.77756 0.33464,-1.24015 0.77756 -0.31496,-1.27953 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.27953 0.73819 0.29528,-1.33858 0.77756 0.33464,-1.24015 0.77756 0.33464,-1.37795 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-1.33858 0.77756 0.33464,-1.37795 0.73819 0.45275,-1.33858 0.77756 0.49212,-1.37795 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.37795 0.73819 0.45275,-1.61417 0.77756 0.49212,-1.33858 0.77756 0.49212,-1.57480 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.57480 0.73819 0.45275,-1.61417 0.77756 0.33464,-1.61417 0.77756 0.49212,-1.57480 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-1.61417 0.77756 0.33464,-1.67322 0.73819 0.29528,-1.71259 0.77756 0.33464,-1.57480 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-1.71259 0.77756 0.33464,-1.67322 0.73819 -0.27559,-1.71259 0.77756 -0.31496,-1.67322 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.67322 0.73819 -0.27559,-1.59448 0.77756 -0.31496,-1.71259 0.77756 -0.31496,-1.55512 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.55512 0.73819 -0.33464,-1.59448 0.77756 -0.37401,-1.59448 0.77756 -0.31496,-1.55512 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.55512 0.73819 -0.33464,-1.35827 0.77756 -0.37401,-1.59448 0.77756 -0.37401,-1.39763 0.73819 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1,4,2,6,-1,4,6,7,-1]
+coord Coordinate { point [-1.55512 0.73819 -0.33464,-1.55512 0.73819 -0.27559,-1.55512 -0.48228 -0.27559,-1.55512 -0.71850 -0.33464,-1.55512 -0.63976 0.03937,-1.55512 -0.71850 0.03937,-1.55512 -0.48228 0.45275,-1.55512 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.39763 0.73819 -0.27559,-1.39763 -0.48228 -0.27559,-1.27953 -0.32480 -0.27559,-1.27953 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.55512 0.73819 -0.27559,-1.67322 -0.32480 -0.27559,-1.55512 -0.48228 -0.27559,-1.67322 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,0,2,4,-1]
+coord Coordinate { point [-1.27953 0.73819 -0.27559,-1.27953 -0.32480 -0.27559,-1.27953 0.46260 0.29528,-1.27953 -0.32480 0.29528,-1.27953 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,4,5,6,-1,4,6,7,-1,8,9,10,-1,9,11,10,-1,4,7,3,-1,1,4,3,-1,2,9,0,-1,9,2,11,-1]
+coord Coordinate { point [-1.29921 -0.20669 0.29528,-1.65354 -0.20669 0.29528,-1.37795 0.02992 0.29528,-1.57480 0.02992 0.29528,-1.65354 0.46260 0.29528,-1.67322 0.46260 0.29528,-1.67322 0.73819 0.29528,-1.57480 0.73819 0.29528,-1.27953 0.46260 0.29528,-1.29921 0.46260 0.29528,-1.27953 0.73819 0.29528,-1.37795 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.57480 0.02992 0.29528,-1.37795 0.46260 0.45275,-1.37795 0.02992 0.29528,-1.57480 0.46260 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.37795 0.46260 0.45275,-1.37795 0.73819 0.45275,-1.37795 0.73819 0.29528,-1.37795 0.02992 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.37795 0.46260 0.45275,-1.57480 0.46260 0.45275,-1.57480 0.73819 0.45275,-1.37795 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.57480 0.46260 0.45275,-1.57480 0.02992 0.29528,-1.57480 0.73819 0.29528,-1.57480 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-1.67322 0.73819 -0.27559,-1.67322 0.73819 0.29528,-1.67322 0.46260 0.29528,-1.67322 -0.32480 -0.27559,-1.67322 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,3,4,-1,0,2,4,-1]
+coord Coordinate { point [-1.55512 -0.48228 -0.27559,-1.67322 -0.32480 -0.27559,-1.67322 -0.32480 0.29528,-1.67322 -0.32480 0.45275,-1.55512 -0.48228 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [-1.65354 -0.17980 0.55118,-1.65354 0.02953 0.55118,-1.65354 -0.20669 0.29528,-1.65354 0.24586 0.62992,-1.65354 0.46260 0.62992,-1.65354 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.29921 0.02953 0.55118,-1.65354 0.24586 0.62992,-1.65354 0.02953 0.55118,-1.29921 0.24586 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,1,-1,3,5,4,-1,3,1,0,-1]
+coord Coordinate { point [-1.29921 -0.20669 0.29528,-1.29921 0.02953 0.55118,-1.29921 -0.17980 0.55118,-1.29921 0.46260 0.29528,-1.29921 0.24586 0.62992,-1.29921 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.29921 -0.20669 0.29528,-1.65354 -0.17980 0.55118,-1.65354 -0.20669 0.29528,-1.29921 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.29921 0.02953 0.55118,-1.65354 0.02953 0.55118,-1.65354 -0.17980 0.55118,-1.29921 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,2,3,4,-1]
+coord Coordinate { point [-1.27953 -0.32480 -0.27559,-1.39763 -0.48228 -0.27559,-1.27953 -0.32480 0.29528,-1.39763 -0.48228 0.45275,-1.27953 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.40748 -0.71850 -0.33464,-1.40748 -0.71850 0.03937,-1.39763 -0.71850 0.03937,-1.39763 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.54527 -0.71850 -0.33464,-1.55512 -0.71850 -0.33464,-1.55512 -0.71850 0.03937,-1.54527 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1]
+coord Coordinate { point [-1.39763 -0.63976 0.03937,-1.39763 -0.71850 0.03937,-1.40748 -0.71850 0.03937,-1.55512 -0.63976 0.03937,-1.54527 -0.71850 0.03937,-1.55512 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-1.39763 -0.63976 0.03937,-1.55512 -0.63976 0.03937,-1.39763 -0.63976 0.45275,-1.55512 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-1.11220 -0.77756 -0.45275,-1.05315 -0.71850 -0.45275,-1.05315 -0.71850 -0.33464,-1.11220 -0.77756 0.09842,-1.05315 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.05315 -0.71850 0.03937,-0.85630 -0.77756 0.09842,-1.11220 -0.77756 0.09842,-0.91535 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,0,3,-1]
+coord Coordinate { point [-0.91535 -0.71850 -0.33464,-0.91535 -0.71850 -0.45275,-0.85630 -0.77756 -0.45275,-0.85630 -0.77756 0.09842,-0.91535 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.91535 -0.71850 -0.45275,-1.05315 -0.71850 -0.33464,-1.05315 -0.71850 -0.45275,-0.91535 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,5,3,4,-1,0,2,4,-1]
+coord Coordinate { point [-0.91535 -0.71850 -0.33464,-0.90551 -0.71850 -0.33464,-0.90551 0.73819 -0.33464,-1.05315 -0.71850 -0.33464,-1.06299 0.73819 -0.33464,-1.06299 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,2,4,5,-1,3,2,5,-1,0,3,6,-1,6,3,7,-1]
+coord Coordinate { point [-0.90551 -0.71850 -0.33464,-0.90551 -0.71850 0.03937,-0.90551 -0.63976 0.03937,-0.90551 -0.48228 -0.27559,-0.90551 -0.63976 0.45275,-0.90551 -0.48228 0.45275,-0.90551 0.73819 -0.33464,-0.90551 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.90551 0.73819 -0.33464,-0.86614 0.77756 -0.31496,-0.86614 0.77756 -0.37401,-0.90551 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.86614 0.77756 -0.31496,-0.78740 0.73819 -0.27559,-0.74803 0.77756 -0.31496,-0.90551 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.78740 0.73819 -0.27559,-0.74803 0.77756 0.33464,-0.74803 0.77756 -0.31496,-0.78740 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.78740 0.73819 0.29528,-0.84645 0.77756 0.33464,-0.74803 0.77756 0.33464,-0.88582 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.84645 0.77756 0.33464,-0.88582 0.73819 0.45275,-0.84645 0.77756 0.49212,-0.88582 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.88582 0.73819 0.45275,-1.12204 0.77756 0.49212,-0.84645 0.77756 0.49212,-1.08268 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.08268 0.73819 0.45275,-1.12204 0.77756 0.33464,-1.12204 0.77756 0.49212,-1.08268 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-1.12204 0.77756 0.33464,-1.18110 0.73819 0.29528,-1.22047 0.77756 0.33464,-1.08268 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-1.22047 0.77756 0.33464,-1.18110 0.73819 -0.27559,-1.22047 0.77756 -0.31496,-1.18110 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.18110 0.73819 -0.27559,-1.10236 0.77756 -0.31496,-1.22047 0.77756 -0.31496,-1.06299 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.06299 0.73819 -0.33464,-1.10236 0.77756 -0.37401,-1.10236 0.77756 -0.31496,-1.06299 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.06299 0.73819 -0.33464,-0.86614 0.77756 -0.37401,-1.10236 0.77756 -0.37401,-0.90551 0.73819 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1,4,2,6,-1,4,6,7,-1]
+coord Coordinate { point [-1.06299 0.73819 -0.33464,-1.06299 0.73819 -0.27559,-1.06299 -0.48228 -0.27559,-1.06299 -0.71850 -0.33464,-1.06299 -0.63976 0.03937,-1.06299 -0.71850 0.03937,-1.06299 -0.48228 0.45275,-1.06299 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.90551 0.73819 -0.27559,-0.90551 -0.48228 -0.27559,-0.78740 -0.32480 -0.27559,-0.78740 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.06299 0.73819 -0.27559,-1.18110 -0.32480 -0.27559,-1.06299 -0.48228 -0.27559,-1.18110 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,0,2,4,-1]
+coord Coordinate { point [-0.78740 0.73819 -0.27559,-0.78740 -0.32480 -0.27559,-0.78740 0.46260 0.29528,-0.78740 -0.32480 0.29528,-0.78740 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,4,5,6,-1,4,6,7,-1,8,9,10,-1,9,11,10,-1,4,7,3,-1,1,4,3,-1,11,9,0,-1,2,11,0,-1]
+coord Coordinate { point [-0.80708 -0.20669 0.29528,-1.16142 -0.20669 0.29528,-0.88582 0.02992 0.29528,-1.08268 0.02992 0.29528,-1.16142 0.46260 0.29528,-1.18110 0.46260 0.29528,-1.18110 0.73819 0.29528,-1.08268 0.73819 0.29528,-0.78740 0.46260 0.29528,-0.80708 0.46260 0.29528,-0.78740 0.73819 0.29528,-0.88582 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.08268 0.02992 0.29528,-0.88582 0.46260 0.45275,-0.88582 0.02992 0.29528,-1.08268 0.46260 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.88582 0.46260 0.45275,-0.88582 0.73819 0.45275,-0.88582 0.73819 0.29528,-0.88582 0.02992 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.88582 0.46260 0.45275,-1.08268 0.46260 0.45275,-1.08268 0.73819 0.45275,-0.88582 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.08268 0.46260 0.45275,-1.08268 0.02992 0.29528,-1.08268 0.73819 0.29528,-1.08268 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-1.18110 0.73819 -0.27559,-1.18110 0.73819 0.29528,-1.18110 0.46260 0.29528,-1.18110 -0.32480 -0.27559,-1.18110 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,3,4,-1,0,2,4,-1]
+coord Coordinate { point [-1.06299 -0.48228 -0.27559,-1.18110 -0.32480 -0.27559,-1.18110 -0.32480 0.29528,-1.18110 -0.32480 0.45275,-1.06299 -0.48228 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [-1.16142 -0.17980 0.55118,-1.16142 0.02953 0.55118,-1.16142 -0.20669 0.29528,-1.16142 0.24586 0.62992,-1.16142 0.46260 0.62992,-1.16142 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.80708 0.02953 0.55118,-1.16142 0.24586 0.62992,-1.16142 0.02953 0.55118,-0.80708 0.24586 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,1,-1,3,5,4,-1,3,1,0,-1]
+coord Coordinate { point [-0.80708 -0.20669 0.29528,-0.80708 0.02953 0.55118,-0.80708 -0.17980 0.55118,-0.80708 0.46260 0.29528,-0.80708 0.24586 0.62992,-0.80708 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.80708 -0.20669 0.29528,-1.16142 -0.17980 0.55118,-1.16142 -0.20669 0.29528,-0.80708 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.80708 0.02953 0.55118,-1.16142 0.02953 0.55118,-1.16142 -0.17980 0.55118,-0.80708 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,2,3,4,-1]
+coord Coordinate { point [-0.78740 -0.32480 -0.27559,-0.90551 -0.48228 -0.27559,-0.78740 -0.32480 0.29528,-0.90551 -0.48228 0.45275,-0.78740 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.91535 -0.71850 -0.33464,-0.91535 -0.71850 0.03937,-0.90551 -0.71850 0.03937,-0.90551 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.05315 -0.71850 -0.33464,-1.06299 -0.71850 -0.33464,-1.06299 -0.71850 0.03937,-1.05315 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1]
+coord Coordinate { point [-0.90551 -0.63976 0.03937,-0.90551 -0.71850 0.03937,-0.91535 -0.71850 0.03937,-1.06299 -0.63976 0.03937,-1.05315 -0.71850 0.03937,-1.06299 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.90551 -0.63976 0.03937,-1.06299 -0.63976 0.03937,-0.90551 -0.63976 0.45275,-1.06299 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-0.62008 -0.77756 -0.45275,-0.56102 -0.71850 -0.45275,-0.56102 -0.71850 -0.33464,-0.62008 -0.77756 0.09842,-0.56102 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.62008 -0.77756 0.09842,-0.42323 -0.71850 0.03937,-0.36417 -0.77756 0.09842,-0.56102 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,0,3,-1]
+coord Coordinate { point [-0.42323 -0.71850 -0.33464,-0.42323 -0.71850 -0.45275,-0.36417 -0.77756 -0.45275,-0.36417 -0.77756 0.09842,-0.42323 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.42323 -0.71850 -0.45275,-0.56102 -0.71850 -0.33464,-0.56102 -0.71850 -0.45275,-0.42323 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,5,3,4,-1,0,2,4,-1]
+coord Coordinate { point [-0.42323 -0.71850 -0.33464,-0.41339 -0.71850 -0.33464,-0.41339 0.73819 -0.33464,-0.56102 -0.71850 -0.33464,-0.57086 0.73819 -0.33464,-0.57086 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,2,4,5,-1,3,2,5,-1,0,3,6,-1,6,3,7,-1]
+coord Coordinate { point [-0.41339 -0.71850 -0.33464,-0.41339 -0.71850 0.03937,-0.41339 -0.63976 0.03937,-0.41339 -0.48228 -0.27559,-0.41339 -0.63976 0.45275,-0.41339 -0.48228 0.45275,-0.41339 0.73819 -0.33464,-0.41339 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.41339 0.73819 -0.33464,-0.37401 0.77756 -0.31496,-0.37401 0.77756 -0.37401,-0.41339 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.37401 0.77756 -0.31496,-0.29528 0.73819 -0.27559,-0.25590 0.77756 -0.31496,-0.41339 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.29528 0.73819 -0.27559,-0.25590 0.77756 0.33464,-0.25590 0.77756 -0.31496,-0.29528 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.29528 0.73819 0.29528,-0.35433 0.77756 0.33464,-0.25590 0.77756 0.33464,-0.39370 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.35433 0.77756 0.33464,-0.39370 0.73819 0.45275,-0.35433 0.77756 0.49212,-0.39370 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.35433 0.77756 0.49212,-0.59055 0.73819 0.45275,-0.62992 0.77756 0.49212,-0.39370 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.59055 0.73819 0.45275,-0.62992 0.77756 0.33464,-0.62992 0.77756 0.49212,-0.59055 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.62992 0.77756 0.33464,-0.68898 0.73819 0.29528,-0.72835 0.77756 0.33464,-0.59055 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.72835 0.77756 0.33464,-0.68898 0.73819 -0.27559,-0.72835 0.77756 -0.31496,-0.68898 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.68898 0.73819 -0.27559,-0.61023 0.77756 -0.31496,-0.72835 0.77756 -0.31496,-0.57086 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.57086 0.73819 -0.33464,-0.61023 0.77756 -0.37401,-0.61023 0.77756 -0.31496,-0.57086 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.61023 0.77756 -0.37401,-0.41339 0.73819 -0.33464,-0.37401 0.77756 -0.37401,-0.57086 0.73819 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1,4,2,6,-1,4,6,7,-1]
+coord Coordinate { point [-0.57086 0.73819 -0.33464,-0.57086 0.73819 -0.27559,-0.57086 -0.48228 -0.27559,-0.57086 -0.71850 -0.33464,-0.57086 -0.63976 0.03937,-0.57086 -0.71850 0.03937,-0.57086 -0.48228 0.45275,-0.57086 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.41339 0.73819 -0.27559,-0.41339 -0.48228 -0.27559,-0.29528 -0.32480 -0.27559,-0.29528 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.57086 0.73819 -0.27559,-0.68898 -0.32480 -0.27559,-0.57086 -0.48228 -0.27559,-0.68898 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,0,2,4,-1]
+coord Coordinate { point [-0.29528 0.73819 -0.27559,-0.29528 -0.32480 -0.27559,-0.29528 0.46260 0.29528,-0.29528 -0.32480 0.29528,-0.29528 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,4,5,6,-1,4,6,7,-1,8,9,10,-1,9,11,10,-1,4,7,3,-1,1,4,3,-1,11,9,0,-1,2,11,0,-1]
+coord Coordinate { point [-0.31496 -0.20669 0.29528,-0.66929 -0.20669 0.29528,-0.39370 0.02992 0.29528,-0.59055 0.02992 0.29528,-0.66929 0.46260 0.29528,-0.68898 0.46260 0.29528,-0.68898 0.73819 0.29528,-0.59055 0.73819 0.29528,-0.29528 0.46260 0.29528,-0.31496 0.46260 0.29528,-0.29528 0.73819 0.29528,-0.39370 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.59055 0.02992 0.29528,-0.39370 0.46260 0.45275,-0.39370 0.02992 0.29528,-0.59055 0.46260 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.39370 0.46260 0.45275,-0.39370 0.73819 0.45275,-0.39370 0.73819 0.29528,-0.39370 0.02992 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [-0.39370 0.46260 0.45275,-0.59055 0.46260 0.45275,-0.39370 0.73819 0.45275,-0.59055 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.59055 0.46260 0.45275,-0.59055 0.02992 0.29528,-0.59055 0.73819 0.29528,-0.59055 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-0.68898 0.73819 -0.27559,-0.68898 0.73819 0.29528,-0.68898 0.46260 0.29528,-0.68898 -0.32480 -0.27559,-0.68898 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,3,4,-1,0,2,4,-1]
+coord Coordinate { point [-0.57086 -0.48228 -0.27559,-0.68898 -0.32480 -0.27559,-0.68898 -0.32480 0.29528,-0.68898 -0.32480 0.45275,-0.57086 -0.48228 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [-0.66929 -0.17980 0.55118,-0.66929 0.02953 0.55118,-0.66929 -0.20669 0.29528,-0.66929 0.24586 0.62992,-0.66929 0.46260 0.62992,-0.66929 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.31496 0.24586 0.62992,-0.66929 0.24586 0.62992,-0.66929 0.02953 0.55118,-0.31496 0.02953 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,1,-1,3,5,4,-1,3,1,0,-1]
+coord Coordinate { point [-0.31496 -0.20669 0.29528,-0.31496 0.02953 0.55118,-0.31496 -0.17980 0.55118,-0.31496 0.46260 0.29528,-0.31496 0.24586 0.62992,-0.31496 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.31496 -0.20669 0.29528,-0.66929 -0.17980 0.55118,-0.66929 -0.20669 0.29528,-0.31496 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.31496 -0.17980 0.55118,-0.66929 0.02953 0.55118,-0.66929 -0.17980 0.55118,-0.31496 0.02953 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,2,3,4,-1]
+coord Coordinate { point [-0.29528 -0.32480 -0.27559,-0.41339 -0.48228 -0.27559,-0.29528 -0.32480 0.29528,-0.41339 -0.48228 0.45275,-0.29528 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.42323 -0.71850 -0.33464,-0.42323 -0.71850 0.03937,-0.41339 -0.71850 0.03937,-0.41339 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.56102 -0.71850 -0.33464,-0.57086 -0.71850 -0.33464,-0.57086 -0.71850 0.03937,-0.56102 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,0,2,4,-1,3,4,5,-1]
+coord Coordinate { point [-0.41339 -0.63976 0.03937,-0.41339 -0.71850 0.03937,-0.42323 -0.71850 0.03937,-0.57086 -0.63976 0.03937,-0.56102 -0.71850 0.03937,-0.57086 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.41339 -0.63976 0.03937,-0.57086 -0.63976 0.03937,-0.57086 -0.63976 0.45275,-0.41339 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-0.12795 -0.77756 -0.45275,-0.06890 -0.71850 -0.45275,-0.06890 -0.71850 -0.33464,-0.12795 -0.77756 0.09842,-0.06890 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.12795 -0.77756 0.09842,0.06890 -0.71850 0.03937,0.12795 -0.77756 0.09842,-0.06890 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,0,3,-1]
+coord Coordinate { point [0.06890 -0.71850 -0.33464,0.06890 -0.71850 -0.45275,0.12795 -0.77756 -0.45275,0.12795 -0.77756 0.09842,0.06890 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.06890 -0.71850 -0.45275,-0.06890 -0.71850 -0.33464,-0.06890 -0.71850 -0.45275,0.06890 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,5,3,4,-1,0,2,4,-1]
+coord Coordinate { point [0.06890 -0.71850 -0.33464,0.07874 -0.71850 -0.33464,0.07874 0.73819 -0.33464,-0.06890 -0.71850 -0.33464,-0.07874 0.73819 -0.33464,-0.07874 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,2,4,5,-1,3,2,5,-1,0,3,6,-1,6,3,7,-1]
+coord Coordinate { point [0.07874 -0.71850 -0.33464,0.07874 -0.71850 0.03937,0.07874 -0.63976 0.03937,0.07874 -0.48228 -0.27559,0.07874 -0.63976 0.45275,0.07874 -0.48228 0.45275,0.07874 0.73819 -0.33464,0.07874 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.07874 0.73819 -0.33464,0.11811 0.77756 -0.31496,0.11811 0.77756 -0.37401,0.07874 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.11811 0.77756 -0.31496,0.19685 0.73819 -0.27559,0.23622 0.77756 -0.31496,0.07874 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.19685 0.73819 -0.27559,0.23622 0.77756 0.33464,0.23622 0.77756 -0.31496,0.19685 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.19685 0.73819 0.29528,0.13780 0.77756 0.33464,0.23622 0.77756 0.33464,0.09842 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.13780 0.77756 0.33464,0.09842 0.73819 0.45275,0.13780 0.77756 0.49212,0.09842 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.09842 0.73819 0.45275,-0.13780 0.77756 0.49212,0.13780 0.77756 0.49212,-0.09842 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.09842 0.73819 0.45275,-0.13780 0.77756 0.33464,-0.13780 0.77756 0.49212,-0.09842 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.13780 0.77756 0.33464,-0.19685 0.73819 0.29528,-0.23622 0.77756 0.33464,-0.09842 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.23622 0.77756 0.33464,-0.19685 0.73819 -0.27559,-0.23622 0.77756 -0.31496,-0.19685 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.19685 0.73819 -0.27559,-0.11811 0.77756 -0.31496,-0.23622 0.77756 -0.31496,-0.07874 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-0.07874 0.73819 -0.33464,-0.11811 0.77756 -0.37401,-0.11811 0.77756 -0.31496,-0.07874 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [-0.11811 0.77756 -0.37401,0.07874 0.73819 -0.33464,0.11811 0.77756 -0.37401,-0.07874 0.73819 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1,4,2,6,-1,4,6,7,-1]
+coord Coordinate { point [-0.07874 0.73819 -0.33464,-0.07874 0.73819 -0.27559,-0.07874 -0.48228 -0.27559,-0.07874 -0.71850 -0.33464,-0.07874 -0.63976 0.03937,-0.07874 -0.71850 0.03937,-0.07874 -0.48228 0.45275,-0.07874 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.07874 0.73819 -0.27559,0.07874 -0.48228 -0.27559,0.19685 -0.32480 -0.27559,0.19685 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.07874 0.73819 -0.27559,-0.19685 -0.32480 -0.27559,-0.07874 -0.48228 -0.27559,-0.19685 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,0,2,4,-1]
+coord Coordinate { point [0.19685 0.73819 -0.27559,0.19685 -0.32480 -0.27559,0.19685 0.46260 0.29528,0.19685 -0.32480 0.29528,0.19685 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,4,5,6,-1,4,6,7,-1,8,9,10,-1,9,11,10,-1,4,7,3,-1,3,1,4,-1,11,9,0,-1,2,11,0,-1]
+coord Coordinate { point [0.17716 -0.20669 0.29528,-0.17716 -0.20669 0.29528,0.09842 0.02992 0.29528,-0.09842 0.02992 0.29528,-0.17716 0.46260 0.29528,-0.19685 0.46260 0.29528,-0.19685 0.73819 0.29528,-0.09842 0.73819 0.29528,0.19685 0.46260 0.29528,0.17716 0.46260 0.29528,0.19685 0.73819 0.29528,0.09842 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-0.09842 0.02992 0.29528,0.09842 0.46260 0.45275,0.09842 0.02992 0.29528,-0.09842 0.46260 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.09842 0.46260 0.45275,0.09842 0.73819 0.45275,0.09842 0.73819 0.29528,0.09842 0.02992 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [0.09842 0.46260 0.45275,-0.09842 0.46260 0.45275,0.09842 0.73819 0.45275,-0.09842 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.09842 0.46260 0.45275,-0.09842 0.02992 0.29528,-0.09842 0.73819 0.29528,-0.09842 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [-0.19685 0.73819 -0.27559,-0.19685 0.73819 0.29528,-0.19685 0.46260 0.29528,-0.19685 -0.32480 -0.27559,-0.19685 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,3,4,-1,0,2,4,-1]
+coord Coordinate { point [-0.07874 -0.48228 -0.27559,-0.19685 -0.32480 -0.27559,-0.19685 -0.32480 0.29528,-0.19685 -0.32480 0.45275,-0.07874 -0.48228 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [-0.17716 -0.17980 0.55118,-0.17716 0.02953 0.55118,-0.17716 -0.20669 0.29528,-0.17716 0.24586 0.62992,-0.17716 0.46260 0.62992,-0.17716 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.17716 0.24586 0.62992,-0.17716 0.24586 0.62992,-0.17716 0.02953 0.55118,0.17716 0.02953 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,1,-1,3,5,4,-1,3,1,0,-1]
+coord Coordinate { point [0.17716 -0.20669 0.29528,0.17716 0.02953 0.55118,0.17716 -0.17980 0.55118,0.17716 0.46260 0.29528,0.17716 0.24586 0.62992,0.17716 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.17716 -0.17980 0.55118,-0.17716 -0.17980 0.55118,-0.17716 -0.20669 0.29528,0.17716 -0.20669 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.17716 -0.17980 0.55118,-0.17716 0.02953 0.55118,-0.17716 -0.17980 0.55118,0.17716 0.02953 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,2,3,4,-1]
+coord Coordinate { point [0.19685 -0.32480 -0.27559,0.07874 -0.48228 -0.27559,0.19685 -0.32480 0.29528,0.07874 -0.48228 0.45275,0.19685 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.06890 -0.71850 -0.33464,0.06890 -0.71850 0.03937,0.07874 -0.71850 0.03937,0.07874 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-0.06890 -0.71850 -0.33464,-0.07874 -0.71850 -0.33464,-0.07874 -0.71850 0.03937,-0.06890 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1]
+coord Coordinate { point [0.07874 -0.63976 0.03937,0.07874 -0.71850 0.03937,0.06890 -0.71850 0.03937,-0.07874 -0.63976 0.03937,-0.06890 -0.71850 0.03937,-0.07874 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.07874 -0.63976 0.03937,-0.07874 -0.63976 0.03937,-0.07874 -0.63976 0.45275,0.07874 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [0.36417 -0.77756 -0.45275,0.42323 -0.71850 -0.45275,0.42323 -0.71850 -0.33464,0.36417 -0.77756 0.09842,0.42323 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.42323 -0.71850 0.03937,0.62008 -0.77756 0.09842,0.36417 -0.77756 0.09842,0.56102 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,0,3,-1]
+coord Coordinate { point [0.56102 -0.71850 -0.33464,0.56102 -0.71850 -0.45275,0.62008 -0.77756 -0.45275,0.62008 -0.77756 0.09842,0.56102 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.56102 -0.71850 -0.45275,0.42323 -0.71850 -0.33464,0.42323 -0.71850 -0.45275,0.56102 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,5,3,4,-1,0,2,4,-1]
+coord Coordinate { point [0.56102 -0.71850 -0.33464,0.57086 -0.71850 -0.33464,0.57086 0.73819 -0.33464,0.42323 -0.71850 -0.33464,0.41339 0.73819 -0.33464,0.41339 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,2,4,5,-1,3,2,5,-1,0,3,6,-1,6,3,7,-1]
+coord Coordinate { point [0.57086 -0.71850 -0.33464,0.57086 -0.71850 0.03937,0.57086 -0.63976 0.03937,0.57086 -0.48228 -0.27559,0.57086 -0.63976 0.45275,0.57086 -0.48228 0.45275,0.57086 0.73819 -0.33464,0.57086 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.57086 0.73819 -0.33464,0.61023 0.77756 -0.31496,0.61023 0.77756 -0.37401,0.57086 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.61023 0.77756 -0.31496,0.68898 0.73819 -0.27559,0.72835 0.77756 -0.31496,0.57086 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.68898 0.73819 -0.27559,0.72835 0.77756 0.33464,0.72835 0.77756 -0.31496,0.68898 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.68898 0.73819 0.29528,0.62992 0.77756 0.33464,0.72835 0.77756 0.33464,0.59055 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.62992 0.77756 0.33464,0.59055 0.73819 0.45275,0.62992 0.77756 0.49212,0.59055 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.59055 0.73819 0.45275,0.35433 0.77756 0.49212,0.62992 0.77756 0.49212,0.39370 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.39370 0.73819 0.45275,0.35433 0.77756 0.33464,0.35433 0.77756 0.49212,0.39370 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.35433 0.77756 0.33464,0.29528 0.73819 0.29528,0.25590 0.77756 0.33464,0.39370 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.25590 0.77756 0.33464,0.29528 0.73819 -0.27559,0.25590 0.77756 -0.31496,0.29528 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.29528 0.73819 -0.27559,0.37401 0.77756 -0.31496,0.25590 0.77756 -0.31496,0.41339 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.41339 0.73819 -0.33464,0.37401 0.77756 -0.37401,0.37401 0.77756 -0.31496,0.41339 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.37401 0.77756 -0.37401,0.57086 0.73819 -0.33464,0.61023 0.77756 -0.37401,0.41339 0.73819 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1,4,2,6,-1,4,6,7,-1]
+coord Coordinate { point [0.41339 0.73819 -0.33464,0.41339 0.73819 -0.27559,0.41339 -0.48228 -0.27559,0.41339 -0.71850 -0.33464,0.41339 -0.63976 0.03937,0.41339 -0.71850 0.03937,0.41339 -0.48228 0.45275,0.41339 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.57086 0.73819 -0.27559,0.57086 -0.48228 -0.27559,0.68898 -0.32480 -0.27559,0.68898 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.41339 0.73819 -0.27559,0.29528 -0.32480 -0.27559,0.41339 -0.48228 -0.27559,0.29528 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,0,2,4,-1]
+coord Coordinate { point [0.68898 0.73819 -0.27559,0.68898 -0.32480 -0.27559,0.68898 0.46260 0.29528,0.68898 -0.32480 0.29528,0.68898 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,1,3,-1,4,5,6,-1,4,6,7,-1,8,9,10,-1,9,11,10,-1,4,7,1,-1,0,4,1,-1,11,9,2,-1,3,11,2,-1]
+coord Coordinate { point [0.31496 -0.20669 0.29528,0.39370 0.02992 0.29528,0.66929 -0.20669 0.29528,0.59055 0.02992 0.29528,0.31496 0.46260 0.29528,0.29528 0.46260 0.29528,0.29528 0.73819 0.29528,0.39370 0.73819 0.29528,0.68898 0.46260 0.29528,0.66929 0.46260 0.29528,0.68898 0.73819 0.29528,0.59055 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.39370 0.02992 0.29528,0.59055 0.46260 0.45275,0.59055 0.02992 0.29528,0.39370 0.46260 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.59055 0.46260 0.45275,0.59055 0.73819 0.45275,0.59055 0.73819 0.29528,0.59055 0.02992 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.59055 0.46260 0.45275,0.39370 0.46260 0.45275,0.39370 0.73819 0.45275,0.59055 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.39370 0.46260 0.45275,0.39370 0.02992 0.29528,0.39370 0.73819 0.29528,0.39370 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [0.29528 0.73819 -0.27559,0.29528 0.73819 0.29528,0.29528 0.46260 0.29528,0.29528 -0.32480 -0.27559,0.29528 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,3,4,-1,0,2,4,-1]
+coord Coordinate { point [0.41339 -0.48228 -0.27559,0.29528 -0.32480 -0.27559,0.29528 -0.32480 0.29528,0.29528 -0.32480 0.45275,0.41339 -0.48228 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [0.31496 -0.17980 0.55118,0.31496 0.02953 0.55118,0.31496 -0.20669 0.29528,0.31496 0.24586 0.62992,0.31496 0.46260 0.62992,0.31496 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.66929 0.02953 0.55118,0.31496 0.24586 0.62992,0.31496 0.02953 0.55118,0.66929 0.24586 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,1,-1,3,5,4,-1,3,1,0,-1]
+coord Coordinate { point [0.66929 -0.20669 0.29528,0.66929 0.02953 0.55118,0.66929 -0.17980 0.55118,0.66929 0.46260 0.29528,0.66929 0.24586 0.62992,0.66929 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.66929 -0.20669 0.29528,0.31496 -0.17980 0.55118,0.31496 -0.20669 0.29528,0.66929 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.66929 0.02953 0.55118,0.31496 0.02953 0.55118,0.31496 -0.17980 0.55118,0.66929 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,2,3,4,-1]
+coord Coordinate { point [0.68898 -0.32480 -0.27559,0.57086 -0.48228 -0.27559,0.68898 -0.32480 0.29528,0.57086 -0.48228 0.45275,0.68898 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.56102 -0.71850 -0.33464,0.56102 -0.71850 0.03937,0.57086 -0.71850 0.03937,0.57086 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.42323 -0.71850 -0.33464,0.41339 -0.71850 -0.33464,0.41339 -0.71850 0.03937,0.42323 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,0,2,4,-1,3,4,5,-1]
+coord Coordinate { point [0.57086 -0.63976 0.03937,0.57086 -0.71850 0.03937,0.56102 -0.71850 0.03937,0.41339 -0.63976 0.03937,0.42323 -0.71850 0.03937,0.41339 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.57086 -0.63976 0.03937,0.41339 -0.63976 0.03937,0.41339 -0.63976 0.45275,0.57086 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [0.85630 -0.77756 -0.45275,0.91535 -0.71850 -0.45275,0.91535 -0.71850 -0.33464,0.85630 -0.77756 0.09842,0.91535 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.91535 -0.71850 0.03937,1.11220 -0.77756 0.09842,0.85630 -0.77756 0.09842,1.05315 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,0,3,-1]
+coord Coordinate { point [1.05315 -0.71850 -0.33464,1.05315 -0.71850 -0.45275,1.11220 -0.77756 -0.45275,1.11220 -0.77756 0.09842,1.05315 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.05315 -0.71850 -0.45275,0.91535 -0.71850 -0.33464,0.91535 -0.71850 -0.45275,1.05315 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,5,3,4,-1,0,2,4,-1]
+coord Coordinate { point [1.05315 -0.71850 -0.33464,1.06299 -0.71850 -0.33464,1.06299 0.73819 -0.33464,0.91535 -0.71850 -0.33464,0.90551 0.73819 -0.33464,0.90551 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,2,4,5,-1,3,2,5,-1,0,3,6,-1,6,3,7,-1]
+coord Coordinate { point [1.06299 -0.71850 -0.33464,1.06299 -0.71850 0.03937,1.06299 -0.63976 0.03937,1.06299 -0.48228 -0.27559,1.06299 -0.63976 0.45275,1.06299 -0.48228 0.45275,1.06299 0.73819 -0.33464,1.06299 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.06299 0.73819 -0.33464,1.10236 0.77756 -0.31496,1.10236 0.77756 -0.37401,1.06299 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.10236 0.77756 -0.31496,1.18110 0.73819 -0.27559,1.22047 0.77756 -0.31496,1.06299 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.18110 0.73819 -0.27559,1.22047 0.77756 0.33464,1.22047 0.77756 -0.31496,1.18110 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.18110 0.73819 0.29528,1.12204 0.77756 0.33464,1.22047 0.77756 0.33464,1.08268 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.12204 0.77756 0.33464,1.08268 0.73819 0.45275,1.12204 0.77756 0.49212,1.08268 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.08268 0.73819 0.45275,0.84645 0.77756 0.49212,1.12204 0.77756 0.49212,0.88582 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.88582 0.73819 0.45275,0.84645 0.77756 0.33464,0.84645 0.77756 0.49212,0.88582 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.84645 0.77756 0.33464,0.78740 0.73819 0.29528,0.74803 0.77756 0.33464,0.88582 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [0.74803 0.77756 0.33464,0.78740 0.73819 -0.27559,0.74803 0.77756 -0.31496,0.78740 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.78740 0.73819 -0.27559,0.86614 0.77756 -0.31496,0.74803 0.77756 -0.31496,0.90551 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [0.90551 0.73819 -0.33464,0.86614 0.77756 -0.37401,0.86614 0.77756 -0.31496,0.90551 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.90551 0.73819 -0.33464,1.10236 0.77756 -0.37401,0.86614 0.77756 -0.37401,1.06299 0.73819 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1,4,2,6,-1,4,6,7,-1]
+coord Coordinate { point [0.90551 0.73819 -0.33464,0.90551 0.73819 -0.27559,0.90551 -0.48228 -0.27559,0.90551 -0.71850 -0.33464,0.90551 -0.63976 0.03937,0.90551 -0.71850 0.03937,0.90551 -0.48228 0.45275,0.90551 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.06299 0.73819 -0.27559,1.06299 -0.48228 -0.27559,1.18110 -0.32480 -0.27559,1.18110 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.90551 0.73819 -0.27559,0.78740 -0.32480 -0.27559,0.90551 -0.48228 -0.27559,0.78740 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,0,2,4,-1]
+coord Coordinate { point [1.18110 0.73819 -0.27559,1.18110 -0.32480 -0.27559,1.18110 0.46260 0.29528,1.18110 -0.32480 0.29528,1.18110 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,4,5,6,-1,4,6,7,-1,8,9,10,-1,9,11,10,-1,4,7,3,-1,1,4,3,-1,2,9,0,-1,9,2,11,-1]
+coord Coordinate { point [1.16142 -0.20669 0.29528,0.80708 -0.20669 0.29528,1.08268 0.02992 0.29528,0.88582 0.02992 0.29528,0.80708 0.46260 0.29528,0.78740 0.46260 0.29528,0.78740 0.73819 0.29528,0.88582 0.73819 0.29528,1.18110 0.46260 0.29528,1.16142 0.46260 0.29528,1.18110 0.73819 0.29528,1.08268 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [0.88582 0.02992 0.29528,1.08268 0.46260 0.45275,1.08268 0.02992 0.29528,0.88582 0.46260 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.08268 0.46260 0.45275,1.08268 0.73819 0.45275,1.08268 0.73819 0.29528,1.08268 0.02992 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [1.08268 0.46260 0.45275,0.88582 0.46260 0.45275,0.88582 0.73819 0.45275,1.08268 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.88582 0.46260 0.45275,0.88582 0.02992 0.29528,0.88582 0.73819 0.29528,0.88582 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [0.78740 0.73819 -0.27559,0.78740 0.73819 0.29528,0.78740 0.46260 0.29528,0.78740 -0.32480 -0.27559,0.78740 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,3,4,-1,0,2,4,-1]
+coord Coordinate { point [0.90551 -0.48228 -0.27559,0.78740 -0.32480 -0.27559,0.78740 -0.32480 0.29528,0.78740 -0.32480 0.45275,0.90551 -0.48228 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [0.80708 -0.17980 0.55118,0.80708 0.02953 0.55118,0.80708 -0.20669 0.29528,0.80708 0.24586 0.62992,0.80708 0.46260 0.62992,0.80708 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.16142 0.02953 0.55118,0.80708 0.24586 0.62992,0.80708 0.02953 0.55118,1.16142 0.24586 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,1,-1,3,5,4,-1,3,1,0,-1]
+coord Coordinate { point [1.16142 -0.20669 0.29528,1.16142 0.02953 0.55118,1.16142 -0.17980 0.55118,1.16142 0.46260 0.29528,1.16142 0.24586 0.62992,1.16142 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.16142 -0.20669 0.29528,0.80708 -0.17980 0.55118,0.80708 -0.20669 0.29528,1.16142 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.16142 0.02953 0.55118,0.80708 0.02953 0.55118,0.80708 -0.17980 0.55118,1.16142 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,2,3,4,-1]
+coord Coordinate { point [1.18110 -0.32480 -0.27559,1.06299 -0.48228 -0.27559,1.18110 -0.32480 0.29528,1.06299 -0.48228 0.45275,1.18110 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.05315 -0.71850 -0.33464,1.05315 -0.71850 0.03937,1.06299 -0.71850 0.03937,1.06299 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [0.91535 -0.71850 -0.33464,0.90551 -0.71850 -0.33464,0.90551 -0.71850 0.03937,0.91535 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1]
+coord Coordinate { point [1.06299 -0.63976 0.03937,1.06299 -0.71850 0.03937,1.05315 -0.71850 0.03937,0.90551 -0.63976 0.03937,0.91535 -0.71850 0.03937,0.90551 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.06299 -0.63976 0.03937,0.90551 -0.63976 0.03937,1.06299 -0.63976 0.45275,0.90551 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [1.34842 -0.77756 -0.45275,1.40748 -0.71850 -0.45275,1.40748 -0.71850 -0.33464,1.34842 -0.77756 0.09842,1.40748 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.40748 -0.71850 0.03937,1.60433 -0.77756 0.09842,1.34842 -0.77756 0.09842,1.54527 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,4,0,3,-1]
+coord Coordinate { point [1.54527 -0.71850 -0.33464,1.54527 -0.71850 -0.45275,1.60433 -0.77756 -0.45275,1.60433 -0.77756 0.09842,1.54527 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.54527 -0.71850 -0.45275,1.40748 -0.71850 -0.33464,1.40748 -0.71850 -0.45275,1.54527 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,4,-1,5,3,4,-1,0,2,4,-1]
+coord Coordinate { point [1.54527 -0.71850 -0.33464,1.55512 -0.71850 -0.33464,1.55512 0.73819 -0.33464,1.40748 -0.71850 -0.33464,1.39763 0.73819 -0.33464,1.39763 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1,2,4,5,-1,3,2,5,-1,0,3,6,-1,6,3,7,-1]
+coord Coordinate { point [1.55512 -0.71850 -0.33464,1.55512 -0.71850 0.03937,1.55512 -0.63976 0.03937,1.55512 -0.48228 -0.27559,1.55512 -0.63976 0.45275,1.55512 -0.48228 0.45275,1.55512 0.73819 -0.33464,1.55512 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.55512 0.73819 -0.33464,1.59448 0.77756 -0.31496,1.59448 0.77756 -0.37401,1.55512 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.59448 0.77756 -0.31496,1.67322 0.73819 -0.27559,1.71259 0.77756 -0.31496,1.55512 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.67322 0.73819 -0.27559,1.71259 0.77756 0.33464,1.71259 0.77756 -0.31496,1.67322 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.67322 0.73819 0.29528,1.61417 0.77756 0.33464,1.71259 0.77756 0.33464,1.57480 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.61417 0.77756 0.33464,1.57480 0.73819 0.45275,1.61417 0.77756 0.49212,1.57480 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.61417 0.77756 0.49212,1.37795 0.73819 0.45275,1.33858 0.77756 0.49212,1.57480 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.37795 0.73819 0.45275,1.33858 0.77756 0.33464,1.33858 0.77756 0.49212,1.37795 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.33858 0.77756 0.33464,1.27953 0.73819 0.29528,1.24015 0.77756 0.33464,1.37795 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,1,0,-1]
+coord Coordinate { point [1.24015 0.77756 0.33464,1.27953 0.73819 -0.27559,1.24015 0.77756 -0.31496,1.27953 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.27953 0.73819 -0.27559,1.35827 0.77756 -0.31496,1.24015 0.77756 -0.31496,1.39763 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.39763 0.73819 -0.33464,1.35827 0.77756 -0.37401,1.35827 0.77756 -0.31496,1.39763 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.39763 0.73819 -0.33464,1.59448 0.77756 -0.37401,1.35827 0.77756 -0.37401,1.55512 0.73819 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1,4,2,6,-1,4,6,7,-1]
+coord Coordinate { point [1.39763 0.73819 -0.33464,1.39763 0.73819 -0.27559,1.39763 -0.48228 -0.27559,1.39763 -0.71850 -0.33464,1.39763 -0.63976 0.03937,1.39763 -0.71850 0.03937,1.39763 -0.48228 0.45275,1.39763 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.55512 0.73819 -0.27559,1.55512 -0.48228 -0.27559,1.67322 -0.32480 -0.27559,1.67322 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.39763 0.73819 -0.27559,1.27953 -0.32480 -0.27559,1.39763 -0.48228 -0.27559,1.27953 0.73819 -0.27559]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,0,2,4,-1]
+coord Coordinate { point [1.67322 0.73819 -0.27559,1.67322 -0.32480 -0.27559,1.67322 0.46260 0.29528,1.67322 -0.32480 0.29528,1.67322 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,4,5,6,-1,4,6,7,-1,8,9,10,-1,9,11,10,-1,4,7,3,-1,1,4,3,-1,2,9,0,-1,9,2,11,-1]
+coord Coordinate { point [1.65354 -0.20669 0.29528,1.29921 -0.20669 0.29528,1.57480 0.02992 0.29528,1.37795 0.02992 0.29528,1.29921 0.46260 0.29528,1.27953 0.46260 0.29528,1.27953 0.73819 0.29528,1.37795 0.73819 0.29528,1.67322 0.46260 0.29528,1.65354 0.46260 0.29528,1.67322 0.73819 0.29528,1.57480 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.37795 0.02992 0.29528,1.57480 0.46260 0.45275,1.57480 0.02992 0.29528,1.37795 0.46260 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.57480 0.46260 0.45275,1.57480 0.73819 0.45275,1.57480 0.73819 0.29528,1.57480 0.02992 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [1.57480 0.46260 0.45275,1.37795 0.46260 0.45275,1.37795 0.73819 0.45275,1.57480 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [1.37795 0.46260 0.45275,1.37795 0.02992 0.29528,1.37795 0.73819 0.29528,1.37795 0.73819 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1]
+coord Coordinate { point [1.27953 0.73819 -0.27559,1.27953 0.73819 0.29528,1.27953 0.46260 0.29528,1.27953 -0.32480 -0.27559,1.27953 -0.32480 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,2,3,4,-1,0,2,4,-1]
+coord Coordinate { point [1.39763 -0.48228 -0.27559,1.27953 -0.32480 -0.27559,1.27953 -0.32480 0.29528,1.27953 -0.32480 0.45275,1.39763 -0.48228 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [1.29921 -0.17980 0.55118,1.29921 0.02953 0.55118,1.29921 -0.20669 0.29528,1.29921 0.24586 0.62992,1.29921 0.46260 0.62992,1.29921 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.65354 0.02953 0.55118,1.29921 0.24586 0.62992,1.29921 0.02953 0.55118,1.65354 0.24586 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,1,-1,3,5,4,-1,3,1,0,-1]
+coord Coordinate { point [1.65354 -0.20669 0.29528,1.65354 0.02953 0.55118,1.65354 -0.17980 0.55118,1.65354 0.46260 0.29528,1.65354 0.24586 0.62992,1.65354 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [1.65354 -0.20669 0.29528,1.29921 -0.17980 0.55118,1.29921 -0.20669 0.29528,1.65354 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.65354 0.02953 0.55118,1.29921 0.02953 0.55118,1.29921 -0.17980 0.55118,1.65354 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,2,3,4,-1]
+coord Coordinate { point [1.67322 -0.32480 -0.27559,1.55512 -0.48228 -0.27559,1.67322 -0.32480 0.29528,1.55512 -0.48228 0.45275,1.67322 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.54527 -0.71850 -0.33464,1.54527 -0.71850 0.03937,1.55512 -0.71850 0.03937,1.55512 -0.71850 -0.33464]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [1.40748 -0.71850 -0.33464,1.39763 -0.71850 -0.33464,1.39763 -0.71850 0.03937,1.40748 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1,3,2,4,-1,3,4,5,-1]
+coord Coordinate { point [1.55512 -0.63976 0.03937,1.55512 -0.71850 0.03937,1.54527 -0.71850 0.03937,1.39763 -0.63976 0.03937,1.40748 -0.71850 0.03937,1.39763 -0.71850 0.03937]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.55512 -0.63976 0.03937,1.39763 -0.63976 0.03937,1.55512 -0.63976 0.45275,1.39763 -0.63976 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.89960 -0.36417 -0.55118,-1.89960 -0.63976 -0.45275,-1.89960 -0.20669 -0.45275,-1.89960 -0.34449 -0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [-1.54527 -0.36417 -0.55118,-1.54527 -0.63976 -0.45275,-1.89960 -0.63976 -0.45275,-1.89960 -0.36417 -0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.54527 -0.20669 -0.45275,-1.54527 -0.36417 -0.55118,-1.54527 -0.34449 -0.55118,-1.54527 -0.63976 -0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.54527 -0.34449 -0.55118,-1.89960 -0.34449 -0.55118,-1.89960 -0.20669 -0.45275,-1.54527 -0.20669 -0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.54527 -0.34449 -0.55118,-1.89960 -0.36417 -0.55118,-1.89960 -0.34449 -0.55118,-1.54527 -0.36417 -0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [1.89960 -0.20669 -0.45275,1.89960 -0.63976 -0.45275,1.89960 -0.36417 -0.55118,1.89960 -0.34449 -0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.89960 -0.36417 -0.55118,1.89960 -0.63976 -0.45275,1.54527 -0.36417 -0.55118,1.54527 -0.63976 -0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1]
+coord Coordinate { point [1.89960 -0.34449 -0.55118,1.89960 -0.36417 -0.55118,1.54527 -0.34449 -0.55118,1.54527 -0.36417 -0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,2,3,-1]
+coord Coordinate { point [1.89960 -0.20669 -0.45275,1.89960 -0.34449 -0.55118,1.54527 -0.34449 -0.55118,1.54527 -0.20669 -0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [1.54527 -0.36417 -0.55118,1.54527 -0.63976 -0.45275,1.54527 -0.20669 -0.45275,1.54527 -0.34449 -0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,1,-1,3,5,4,-1,3,1,0,-1]
+coord Coordinate { point [2.14567 -0.20669 0.29528,2.14567 0.02953 0.55118,2.14567 -0.17980 0.55118,2.14567 0.46260 0.29528,2.14567 0.24586 0.62992,2.14567 0.46260 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [2.14567 -0.20669 0.29528,1.79133 -0.17980 0.55118,1.79133 -0.20669 0.29528,2.14567 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,1,3,5,-1,2,1,5,-1]
+coord Coordinate { point [1.79133 -0.17980 0.55118,1.79133 0.02953 0.55118,1.79133 -0.20669 0.29528,1.79133 0.24586 0.62992,1.79133 0.46260 0.62992,1.79133 0.46260 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [2.14567 0.02953 0.55118,1.79133 0.24586 0.62992,1.79133 0.02953 0.55118,2.14567 0.24586 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [2.14567 0.02953 0.55118,1.79133 0.02953 0.55118,1.79133 -0.17980 0.55118,2.14567 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,4,5,-1,3,5,1,-1,3,1,0,-1]
+coord Coordinate { point [-1.79133 -0.20669 0.29528,-1.79133 0.02953 0.55118,-1.79133 -0.17980 0.55118,-1.79133 0.46260 0.29528,-1.79133 0.46260 0.62992,-1.79133 0.24586 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.79133 -0.20669 0.29528,-2.14567 -0.17980 0.55118,-2.14567 -0.20669 0.29528,-1.79133 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,3,0,2,-1]
+coord Coordinate { point [-1.79133 0.02953 0.55118,-2.14567 0.02953 0.55118,-2.14567 -0.17980 0.55118,-1.79133 -0.17980 0.55118]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,0,3,1,-1]
+coord Coordinate { point [-1.79133 0.02953 0.55118,-2.14567 0.24586 0.62992,-2.14567 0.02953 0.55118,-1.79133 0.24586 0.62992]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,0,2,4,-1]
+coord Coordinate { point [2.16535 0.73819 -0.27559,2.16535 -0.32480 -0.27559,2.16535 0.46260 0.29528,2.16535 -0.32480 0.29528,2.16535 0.73819 0.29528]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
+Shape { geometry IndexedFaceSet 
+{ coordIndex [0,1,2,-1,1,3,2,-1,2,3,4,-1]
+coord Coordinate { point [2.16535 -0.32480 -0.27559,2.04724 -0.48228 -0.27559,2.16535 -0.32480 0.29528,2.04724 -0.48228 0.45275,2.16535 -0.32480 0.45275]
+}}
+appearance Appearance{material USE PLASTIC-WHITE-01 }}
